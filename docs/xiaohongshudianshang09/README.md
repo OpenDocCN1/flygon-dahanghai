@@ -1,4 +1,4 @@
-# 9 月航海｜小红书电商-女装垂类｜实战手册
+# 202409 航海｜小红书电商-女装垂类｜实战手册
 
 > 来源：[https://auytvnjzru.feishu.cn/docx/FnPTdU0SyolFOQxtEbac50uJnbh](https://auytvnjzru.feishu.cn/docx/FnPTdU0SyolFOQxtEbac50uJnbh)
 

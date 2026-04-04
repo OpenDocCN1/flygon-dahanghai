@@ -1,4 +1,4 @@
-# 9 月航海 | AI 特效直播变现 | 实战手册
+# 202409 航海 | AI 特效直播变现 | 实战手册
 
 > 来源：[https://ocn93f5d9olj.feishu.cn/docx/TKr1d8DBOovvWxxpGnBcDiUhnlb](https://ocn93f5d9olj.feishu.cn/docx/TKr1d8DBOovvWxxpGnBcDiUhnlb)
 

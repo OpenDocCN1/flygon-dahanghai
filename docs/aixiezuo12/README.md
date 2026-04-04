@@ -1,4 +1,4 @@
-# 12 月航海 | AI 写作 | 实战手册
+# 202412 航海 | AI 写作 | 实战手册
 
 > 来源：[https://ocn93f5d9olj.feishu.cn/docx/We2EdO8xGopnyjxYeydcQ6QonQd](https://ocn93f5d9olj.feishu.cn/docx/We2EdO8xGopnyjxYeydcQ6QonQd)
 

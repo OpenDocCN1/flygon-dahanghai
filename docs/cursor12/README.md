@@ -1,4 +1,4 @@
-# 12 月航海 | Cursor-零基础做软件应用 | 实战手册
+# 202412 航海 | Cursor-零基础做软件应用 | 实战手册
 
 > 来源：[https://ocn93f5d9olj.feishu.cn/docx/YHDNdlTGxoe8qvxGKXZcrpa0nig](https://ocn93f5d9olj.feishu.cn/docx/YHDNdlTGxoe8qvxGKXZcrpa0nig)
 

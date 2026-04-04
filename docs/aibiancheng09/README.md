@@ -1,4 +1,4 @@
-# 9 月航海 | 零基础 AI 编程做产品 | 实战手册
+# 202409 航海 | 零基础 AI 编程做产品 | 实战手册
 
 > 来源：[https://ocn93f5d9olj.feishu.cn/docx/KW7ud2dxwo2kAuxORRLcNGfenig](https://ocn93f5d9olj.feishu.cn/docx/KW7ud2dxwo2kAuxORRLcNGfenig)
 

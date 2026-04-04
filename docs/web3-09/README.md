@@ -1,4 +1,4 @@
-# 9 月航海｜ Web3 入门｜实战手册
+# 202409 航海｜ Web3 入门｜实战手册
 
 > 来源：[https://ocn93f5d9olj.feishu.cn/docx/SJDbdav9eoIrg4xPxhLcKIm0neg](https://ocn93f5d9olj.feishu.cn/docx/SJDbdav9eoIrg4xPxhLcKIm0neg)
 

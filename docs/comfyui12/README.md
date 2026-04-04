@@ -1,4 +1,4 @@
-# 12 月航海 | ComfyUI 工作流 | 实战手册
+# 202412 航海 | ComfyUI 工作流 | 实战手册
 
 > 来源：[https://ocn93f5d9olj.feishu.cn/docx/SCuMdKtDBosm8sxdOYlcRRWonkb](https://ocn93f5d9olj.feishu.cn/docx/SCuMdKtDBosm8sxdOYlcRRWonkb)
 
