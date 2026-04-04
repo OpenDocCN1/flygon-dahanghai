@@ -1,4 +1,5 @@
 +   [《10 倍比 2 倍更容易》21 天共读营 实战手册 202403](docs/10x-2x/README.md)
++   [2026 AI 航海家大会](docs/ai-hanghaijia-2026/README.md)
 +   [AI 绘画特训 实战手册 202403](docs/ai-huihua/README.md)
 +   [AI 绘画实战手册 202305](docs/ai-huihua-2023/README.md)
 +   [AI 绘画特训 202312](docs/ai-huihua-3/README.md)
