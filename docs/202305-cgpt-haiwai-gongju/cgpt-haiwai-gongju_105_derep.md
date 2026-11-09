@@ -1,0 +1,15 @@
+# 案例五：导出店铺数据复制新店，小插件也能赚钱 @壹树
+
+在 Shopify 大航海计划里，有个挺典型的需求：走 Shopify 搭配速卖通代发路线的人，建站时总得先准备一些评论内容，让新店看起来像正常经营、值得信任的店铺。
+
+于是就有了这类工具——把一家 Shopify 店铺的数据一次性导出，再照着这些数据开一家新的 Shopify 店。从技术角度看并不复杂，可它到底有多能挣钱？至少在那次航海计划中，我了解到好几位参与者都购买了它的付费版。
+
+这款插件现在已经下架，原地址是：[`chrome.google.com/webstore/detail/shopify-product-scraper/deinfjdkjobfkjkgdonefkeegfkeekje`](https://chrome.google.com/webstore/detail/shopify-product-scraper/deinfjdkjobfkjkgdonefkeegfkeekje)
+
+如果还想找类似方案，可以在 Chrome 插件商店搜索：Shopify Product Scraper，目前仍有其他插件可以参考。
+
+截至 2019 年，它的用户数为 2.6k，月费 9.99 美元，付费率大约 5%。这类电商小工具的留存表现，比原先估计的要好。
+
+内容来源：《浏览器插件》
+
+![](img/d3dc15a615db58a3c5ef15184454d4ab.png)
