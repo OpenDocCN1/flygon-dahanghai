@@ -1,0 +1,43 @@
+# 6.3.3 画师与整体风格怎么定
+
+把前面那些构图语言全部写完整，其实你已经相当于一位风格固定的画师了。不过，即便走到这一步，你依然可以再选一位画师，让他的风格继续影响画面。
+
+成名画师往往都有鲜明的个人体系，色彩怎么铺、镜头怎么摆、光影怎么打，背后都有一套自洽的逻辑。按理说，只要把画师名字写进提示词，很多描述甚至都可以省掉。
+
+但别忘了，AI 擅长融合。所以不妨试试“画师名 + 你已写好的描述语言”的碰撞组合，看它会生成什么新结果。
+
+![](img/1d7b53d73305c05fb39792caf614aab7.png)
+
+操作不复杂，在描述词里补上“by XXX”就行。
+
+我个人偏爱宫崎骏和新海诚，于是把前面的描述词最终整理成：
+
+A rustic little house, Illustration, Logo, Time-Lapse, Polychromatic-Colors, 2.5D, HDR, Cupola, Happy, Refreshing, Soft Lighting, Acorn, Ray Traced, insanely detailed and intricate, hypermaximalist, elegant, ornate, hyper realistic, super detailed, by Miyazaki Hayao and Makoto Shinkai
+
+翻成中文就是：
+
+一座古朴的小房子，插画，logo，延时摄影，多色彩，2.5D，HDR，圆顶，快乐，清爽，柔和光线，橡子质感，光线追踪，极其繁复的细节，超大型主义，优雅，华丽，超写实，超精细，宫崎骏与新海诚风格
+
+最终效果如下：
+
+![](img/5bb9a8f746a52c6436b0eeae101659d2.png)
+
+![](img/141fe22cb7d54f315e0e2b8d1f9390f1.png)
+
+再拿最初的图来对照：
+
+![](img/f7cca671ce35be8e5bbd7cb34e32bb59.png)
+
+兜了一圈，原版小房子反而更质朴；加入画师和调整后的版本则更炫、更华丽。也不奇怪，之前那些词本来就是为演示随手挑的。像“多色彩”“华丽”这类词，跟“质朴”其实会打架，删掉后再看效果可能更合适，感兴趣的朋友可以自己试试。
+
+比如把“Polychromatic-Colors（多色彩）”和“ornate（华丽）”拿掉，质感果然更朴素了。和最早的图比，画质与精细度还提升得很明显。
+
+![](img/7b3c8fe3d01cf1a52fc11630f557ceaf.png)
+
+描述词是：
+
+A rustic little house, Illustration, Logo, Time-Lapse, 2.5D, HDR, Cupola, Happy, Refreshing, Soft Lighting, Acorn, Ray Traced, insanely detailed and intricate, hypermaximalist, elegant, hyper realistic, super detailed, by Miyazaki Hayao and Makoto Shinkai
+
+前期，我们参照优质描述词来做修改；如今已经能自己写出不错的描述词，并在这个基础上继续打磨。多试、多改，你也能慢慢进阶到更高水平。
+
+![](img/e12d1c8b9f4ffdf6c4edf913cceed533.png)

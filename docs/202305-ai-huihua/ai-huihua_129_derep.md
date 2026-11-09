@@ -1,0 +1,25 @@
+# 7.3 关键词公式：包装设计省力指南 @Sky🏹
+
+上一篇我们已经聊过关键词的写法和构成。到了不同领域，积累常见关键词、掌握常用关键词公式，常常能省下大量精力。
+
+在包装设计里，可以把关键词串成一条公式：品类主题＋包装造型＋包装材质＋包装风格＋参考品牌＋渲染场景＋画面氛围＋图像设定。
+
+核心魔法词是 packaging design（对应包装品类与风格）。辅助词则覆盖多个方向：食品类可留意 food products（食品）、soft drinks（软性饮料）、alcoholic beverrages（酒精饮料）、dim sun（点心）；家居生活类包括 home accessories（家居饰品）、household goods（家庭用品）、electrocal（电器）；美妆与健康类有 cosmetic products（化妆品）、beatuty products（美容用品）、medical care（医药保健）；此外还有 incense cigarettes（香烟）、festive gifts（节日用品）等。
+
+![](img/a086dc1155b765417959fba9df3f7d94.png)
+
+包装设计涉及的关键词分类既多又细。
+
+![](img/8958a424afd68e5b2fa424b6cb88ba54.png)
+
+上面这张图只露出了一部分，缩略图里已经挤满文字；完整清单可以查看：包装设计常用关键词。
+
+别以为这些词只能用在包装上，换个领域同样能派上用场，重点在于如何吸收和灵活变通。
+
+接着看几个应用案例：
+
+31
+
+AI 绘画在包装行业还没有形成系统化的变现路径，愿意的话不妨做第一批探路者，亲自下场摸索。
+
+![](img/e12d1c8b9f4ffdf6c4edf913cceed533.png)

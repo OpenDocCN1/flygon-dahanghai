@@ -1,0 +1,11 @@
+# 5.7.1.4 嵌入式 Embedding（Textual inversion）：小文件，精准调风格
+
+想对大型模型做更细粒度的调整，Embedding（Textual inversion）提供了一种轻量思路。它往往只针对模型中的某个非常具体的点进行修正，例如固定一种绘画风格、记住某个带标志性的物品，或者改变光线的氛围。
+
+这类文件常见格式为 .pt 或 .safetensors，体积仅 KB 级，占用空间很小。使用时，把它放进 Stable diffusion 根目录下的 embeddings 文件夹即可。
+
+![](img/5d2ba544e60dab36e95ed7619d6d7ec2.png)
+
+具体用法：
+
+![](img/9c46f5b5e82fa54c91f3a55653c7c75f.png)
