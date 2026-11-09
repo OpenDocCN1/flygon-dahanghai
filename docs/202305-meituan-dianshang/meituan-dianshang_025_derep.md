@@ -1,0 +1,12 @@
+# 第四步：拿到授权
+
+1. 先找到品牌商标的合法持有方，与其完成授权合作（具体操作可以参考「1.2.4 品牌授权说明」）；
+2. 想一次通过审核，就根据你要开的店铺类型，直接套用下方提供的标准授权书模板；
+3. 一般更推荐专营店；旗舰店必须拿独占授权，成本高、平台也没有流量扶持，所以不建议走这条路。
+
+[旗舰店授权书-美团.docx](https://search01.shengcaiyoushu.com/upload/doc/EhJ9dQnH7oKHm8x9MQTcPjdcnjK/JjH7bk6Uwo9AnpxfYsJcaPR1n2c)  
+[专营店授权书 - 美团.docx](https://search01.shengcaiyoushu.com/upload/doc/EhJ9dQnH7oKHm8x9MQTcPjdcnjK/QlnhbZM5NoK60QxKNiKcTDGHnxf)
+
+【小结】商标这部分当作扩展知识就好，看不懂也没关系，直接去用这份「美团 3 全类目商标类别匹配」保姆级飞书文档，就能搞定。
+
+![](img/af1b0ff95055ad1b068bc39a8c34b73c.png)
