@@ -1,0 +1,7 @@
+# 抖音高考专区上线，志愿填报迎来算法加持
+
+抖音已经推出高考栏目，志愿填报这一环也开始有机器算法作为支撑。
+
+对不少小型机构来说，这或许是个值得抓住的窗口：把 ChatGPT 等工具接入服务流程，推出志愿填报推荐产品，并据此生成具体的填报方案。
+
+![](img/gaokao-xiangguan_1054.png)![](img/gaokao-xiangguan_1059.png)![](img/gaokao-xiangguan_1064.png)![](img/gaokao-xiangguan_1069.png)
