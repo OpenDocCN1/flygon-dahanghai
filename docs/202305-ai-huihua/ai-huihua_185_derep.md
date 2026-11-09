@@ -1,0 +1,27 @@
+# 16.2 上手：MidJourney 摄影出图清单
+
+工具先定下来：优先用 MidJourney。操作还不熟的话，可回看第 4 章里关于 MidJourney 绘画的入门内容。
+
+写提示词时，把这九项依次填进去：画面类型、掌镜人、镜头或机位、拍摄对象、对象状态、光线方案、场景、色彩、成片质量。下面用五类摄影场景看看落点。
+
+**高速定格**：让青苹果砸进水面，水花炸开的一瞬被冻住；棚内布光配纯白底，突出清晰度，并借用 Harold Edgerton 式的高速捕捉。英文侧可写成：high-speed capture, lens by Harold Edgerton, tight close-up, green apple dropping into water, splash burst, studio lamp, white backdrop, top quality --ar 3:2 --v 5。
+
+![](img/51f1bba454df7eca2ea6c766a913ead8.png)
+
+**空中视角**：一辆 Mercedes G50，车漆为黑色，滑过冰封湖面，四周林带合围；日光下拉开明暗层次，构图上取 Cecil Beaton 式航拍感。英文侧可写成：aerial shot, Cecil Beaton-inspired framing, Mercedes G50 finished in black, gliding over ice-covered lake, forest ring, daylight, strong contrast, premium output --ar 3:2 --v 5。
+
+![](img/1a1062d38cdfb0cbf72167007d0a5413.png)
+
+**产品广告感**：一顶足金皇冠，宝石密镶，表面泛金属反光；用柔化光和简洁背景托出馆藏气质，画质走高解析路线。英文侧可写成：commercial product shot, gold crown with gem inlay, glossy metal, diffused lamp, uncluttered backdrop, museum collection vibe, high definition --v 5。
+
+![](img/87f038cb027823a1ba50b602da2bafbb.png)
+
+**光绘**：在海边公路留下几何光轨。英文侧可写成：light painting, coastal road, geometric light trails --v 5。
+
+![](img/a6a787f3c81c2b7bc3cd04dd0963503d.png)
+
+**人物肖像**：Kobe Bryant 穿白色西服，取半身近景；棚内布光，彩照成片，走 Annie Leibovitz 风格。英文侧可写成：Annie Leibovitz-inspired portrait, Kobe Bryant, white suit, waist-up framing, color, indoor softbox, top quality --v 5。
+
+![](img/6d1887066e5c4701d46acd95ebaf5f33.png)
+
+![](img/e12d1c8b9f4ffdf6c4edf913cceed533.png)
