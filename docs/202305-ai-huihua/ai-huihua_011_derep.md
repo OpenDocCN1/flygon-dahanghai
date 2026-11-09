@@ -1,0 +1,17 @@
+# 1.3.2 零门槛出图工具大盘点
+
+如果你已经对 AI 出图有了基本了解，这里还有一批同样容易上手的工具可以补充进你的工具箱。它们几乎没有使用门槛，界面与操作以中文为主，遇到需要英文描述词的地方，借助翻译器就能搞定。使用过程也不复杂，跟着页面上的操作框一步步走即可。
+
+下面整理了几个值得一试的出图工具，按使用习惯排列：
+
+- **站酷 AILAB**：[zcool.com.cn/ailab](https://www.zcool.com.cn/ailab?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2Njg1MDM0NjYsImZpbGVHVUlEIjoiNXJrOWQwekV2bUhNbjlxeCIsImlhdCI6MTY2ODUwMzE2NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM1ODA2ODk4MX0.pPZyVpxdSuMEfv_nbVd-Z1cBehPproEdTiZiYY8ERFQ)，打开网页就能直接用。
+- **意间 AI**：[yjai.ai-galaxy.com](http://yjai.ai-galaxy.com/)，同样是网页端，访问即可。
+- **百度文心**：提供两个入口，一是 [文心一格](https://yige.baidu.com/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2Njg1MDM0NjYsImZpbGVHVUlEIjoiNXJrOWQwekV2bUhNbjlxeCIsImlhdCI6MTY2ODUwMzE2NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM1ODA2ODk4MX0.pPZyVpxdSuMEfv_nbVd-Z1cBehPproEdTiZiYY8ERFQ)，二是 [ERNIE-ViLG 文生图体验](https://wenxin.baidu.com/moduleApi/ernieVilg?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2Njg1MDM0NjYsImZpbGVHVUlEIjoiNXJrOWQwekV2bUhNbjlxeCIsImlhdCI6MTY2ODUwMzE2NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM1ODA2ODk4MX0.pPZyVpxdSuMEfv_nbVd-Z1cBehPproEdTiZiYY8ERFQ)，后者支持在微信端使用。
+- **无界版图**：[wujiebantu.com/ai](https://www.wujiebantu.com/ai?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2Njg1MDM0NjYsImZpbGVHVUlEIjoiNXJrOWQwekV2bUhNbjlxeCIsImlhdCI6MTY2ODUwMzE2NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM1ODA2ODk4MX0.pPZyVpxdSuMEfv_nbVd-Z1cBehPproEdTiZiYY8ERFQ)，特色是与 NFT、文创结合。
+- **Tiamat**：[tiamat.world](https://tiamat.world/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2Njg1MDM0NjYsImZpbGVHVUlEIjoiNXJrOWQwekV2bUhNbjlxeCIsImlhdCI6MTY2ODUwMzE2NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM1ODA2ODk4MX0.pPZyVpxdSuMEfv_nbVd-Z1cBehPproEdTiZiYY8ERFQ)，有微信小程序，目前小程序暂时没有网页端。
+- **盗梦师**：[printidea.art](https://www.printidea.art/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2Njg1MDM0NjYsImZpbGVHVUlEIjoiNXJrOWQwekV2bUhNbjlxeCIsImlhdCI6MTY2ODUwMzE2NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM1ODA2ODk4MX0.pPZyVpxdSuMEfv_nbVd-Z1cBehPproEdTiZiYY8ERFQ)，来自西湖大学心辰科技，网页端和小程序都可以用。
+- **即时 AI**：[js.design](https://js.design/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2Njg1MDM0NjYsImZpbGVHVUlEIjoiNXJrOWQwekV2bUhNbjlxeCIsImlhdCI6MTY2ODUwMzE2NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM1ODA2ODk4MX0.pPZyVpxdSuMEfv_nbVd-Z1cBehPproEdTiZiYY8ERFQ)，这是一款图生图插件，底层基于 SD 模型。
+
+等你能流畅出图之后，如果想尝试更多 AI 绘画的应用与变现，可以直接前往【下篇：AI 绘画的应用与变现】。
+
+![](img/e12d1c8b9f4ffdf6c4edf913cceed533.png)
