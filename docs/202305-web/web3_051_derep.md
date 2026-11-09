@@ -1,0 +1,15 @@
+# 4.3.4 Luna 风波：一道开放思考题
+
+今年上半年，Luna 风波冲出原有圈层，整个过程跌宕起伏。创办人用假币置换真币，套走 40 亿美元；有投资者靠 Luna 拿到百倍回报，并在高位退出；有人卷入死亡螺旋、叠加百倍杠杆，一夜之间暴富；同样有人资产清零，或在 1 超低情形下一夜破产。
+
+风波过后，它确实让我产生不少思考。无论站在创办人、投资者，还是项目机制设计的立场，大家大概都有话想说。
+
+把这道题留给大家：这场 Luna 风波，给你留下了怎样的思考？
+
+下面放两篇延伸材料：一篇是 Web3 专业机构头等舱围绕 Terra 的付费研报，另一篇是大佬对本次事件的经典复盘。
+
+[《从真金白银的资金易手，看 Luna 崩盘的底层数学规律》](https://www.tuoluo.cn/article/detail-10097921.html)
+
+[Sector_Terra Ecosystem_Tony_PC_CN-39217846 (1).pdf](https://search01.shengcaiyoushu.com/upload/doc/KS1WdDWSDogQNmxGRDNc1gXRnEb/MNxUbAxB4osPlVxIq40cdRTInbb)
+
+![](img/d2c5514a55bab876d48116f023b6bdd6.png)
