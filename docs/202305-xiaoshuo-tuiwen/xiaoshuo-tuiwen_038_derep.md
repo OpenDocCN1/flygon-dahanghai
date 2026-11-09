@@ -1,0 +1,21 @@
+# 2.8.2 各大平台爆款书单速查
+
+想高效锁定各渠道的热门书单？这份资源索引已按平台归类，打开链接即可获取：
+
+- 知乎高人气书单入口：[点击查看](https://oitoj8zbkk.feishu.cn/sheets/shtcnFNderLL3Fq2BVt6o9vjkrA)
+- 最右爆款书单汇总：[点击查看](https://oitoj8zbkk.feishu.cn/sheets/shtcnYU5uqjhgR3uISV5f2BrCBc?from=from_parent_sheet)
+- QQ阅读畅销书单：[点击查看](https://oitoj8zbkk.feishu.cn/sheets/shtcnf8HpPEngYpI43hyMMW4xTd)
+- UC平台热门书单：[点击查看](https://oitoj8zbkk.feishu.cn/sheets/shtcnHDN49f1dFuDRgiZkON3dng)
+- 书旗爆款书单（访问密码：uCHa）：[点击查看](https://oitoj8zbkk.feishu.cn/sheets/shtcnhJasChbXZu3NEVlyQG3CMc)
+- 番茄热门书单（访问密码：UqWN）：[点击查看](https://bytedance.feishu.cn/sheets/shtcnlZeYIhjQLFgl3Ti9sCP5mh)
+- 番茄高质量短篇故事书单（访问密码：99vy）：[点击查看](https://bytedance.feishu.cn/sheets/shtcnZquiZOX02k1UFwwXflIpQe?from=from_copylink)
+- 抖音达人荐书资源库（5月8日更新）：[点击查看](https://bytedance.feishu.cn/sheets/shtcndcoSv3hTWu8CiR1MEDkNRe)
+
+此外，以下几项合作红线请务必牢记：
+
+- 凡因项目合作接触到的商业机密、达人私人资料等敏感内容，均负有严格守密义务，且仅限用于本次合作范畴；
+- 合作过程中一旦发现数据造假等违规行为，一律按根本违约严肃处理；
+- 如涉及内容抄袭或其他权利纠纷，相关责任须由责任方全额承担；
+- 服务商有权依据实际业务进展及达人履约表现，单方面决定是否终止合作。
+
+![](img/8cd4882c394e0a215918dd25d4aa188b.png)

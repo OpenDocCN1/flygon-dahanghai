@@ -1,0 +1,58 @@
+# 渠道五：查数入口清单
+
+做方案、搭资料库时，官方统计、行业报告、平台监测通常要一起用。下面按两类整理，链接统一放在站点名后，点开即可。
+
+1）官方统计入口
+
+先查官方口径。经济总体走势、网络基础规模等基础信息，可从以下三个入口入手：
+
+• 中央政府门户网的经济数据查询：[入口](http://www.gov.cn/shuju/chaxun/index.htm)
+• 统计部门官网：[入口](http://www.stats.gov.cn/)
+• CNNIC（网络基础数据机构）：[入口](http://www.cnnic.net.cn/)
+
+![](img/ed90e68ad6816a7d96645211ea436e51.png)
+
+![](img/fdae18acafa569a43651dce1b036f976.png)
+
+2）行业与平台监测
+
+商业报告、应用与站点流量、社交话题热度，下面这些入口按需取用，排序不代表推荐优先级。
+
+**报告与研究**
+
+• 艾瑞的数据产品：[入口](http://data.iresearch.com.cn/)
+• 易观的研究入口：[入口](http://www.analysys.cn/)
+• 艾媒的研究入口：[入口](http://www.iimedia.cn/)
+• 199IT的数据导航：[入口](http://www.199it.com/)
+• 36氪的内容站：[入口](http://36kr.com/)
+
+**移动与流量**
+
+• 极光的数据服务：[入口](https://www.jiguang.cn/)
+• TalkingData的移动数据平台：[入口](http://www.talkingdata.com/)
+• QuestMobile的监测入口：[入口](http://www.questmobile.com.cn/)
+• 七麦（ASO100）：[入口](https://www.qimai.cn/)
+• 应用市场分析平台App Annie：[入口](https://www.appannie.com/cn/)
+• 网站排名工具Alexa：[入口](http://www.alexa.cn/)
+
+**社交与热度**
+
+• 微博热度观察：[入口](http://data.weibo.com/index)
+• 新浪舆情监测：[入口](http://wyq.sina.com/login.shtml)
+• 百度搜索趋势：[入口](https://index.baidu.com/)
+• 阿里商业数据：[入口](https://dt.alibaba.com/alizs.htm)
+• 林克监测站：[入口](http://yq.linkip.cn/user/login.do)
+
+**推广参考**
+
+• 360推广学习站：[入口](http://yingxiao.360.cn/)
+
+![](img/f25cd662c8fb4eb94886212be78111b5.png)
+
+![](img/e1ad60cf0748acf4da9d2fae3570848c.png)
+
+![](img/382f2050faed12a4827e66682429241a.png)
+
+![](img/48cd64468259b66cdf739684899464c9.png)
+
+上面这些站点分别对应官方口径、行业观察、流量排名和舆论热度，需要时直接点开即可。
