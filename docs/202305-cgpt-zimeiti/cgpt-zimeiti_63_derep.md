@@ -1,0 +1,45 @@
+# 7.2.3 ChatGPT 里的 AI 绘画创作指令
+
+•Digital painting/数字绘画：围绕数字绘画与绘图工具，给出实用建议与操作技巧
+
+•Art style recommendations/艺术风格建议：针对不同艺术风格与技法，推荐适合的创作方向
+
+•Sketching/素描：讲解如何从零开始练习素描和草图，分享实用方法
+
+•Painting techniques/绘画技巧：汇总绘画过程中的常用技法，并提供操作建议
+
+•Art supplies recommendations/艺术用品建议：帮你挑选合适的画材与工具，给出选购指导
+
+•Portrait drawing/肖像画：教你如何画出传神的肖像，涵盖构图与细节处理
+
+•Landscape painting/风景画：指导风景画的创作思路，从取景到落笔都有涉及
+
+•Still life drawing/静物画：分享静物画的构图要点与表现手法
+
+•Coloring/上色：提供上色技巧，让作品色彩更协调、更有层次
+
+•Art history/艺术史：介绍艺术史脉络与重要艺术家，扩充你的创作背景知识
+
+•Watercolor painting/水彩画：讲解水彩画的水分控制、晕染技巧与常见误区
+
+•Oil painting/油画：涵盖油画的打底、调色、笔触等核心技法
+
+•Drawing tutorials/绘画教程：提供系统性的绘画教学与分步指导
+
+•Art critique/艺术评论：对已有作品给出点评与改进建议，帮助提升创作水平
+
+•Art portfolio/艺术作品集：教你如何整理、展示并持续更新个人作品集
+
+•Perspective drawing/透视画：拆解透视原理，帮助画出更真实的空间感
+
+•Anime drawing/动漫画：分享动漫画的造型特点、线条处理与角色设计技巧
+
+•Sculpture/雕塑：介绍雕塑制作的流程、工具和造型思路
+
+•Art exhibitions/艺术展览：提供展览资讯和逛展建议，帮你高效获取灵感
+
+•Art galleries/艺术画廊：给出画廊参观与作品赏析的实用建议
+
+以上内容来自 ChatGPT。
+
+![](img/6ee508850b27e2c7d179da2f3eea659e.png)
