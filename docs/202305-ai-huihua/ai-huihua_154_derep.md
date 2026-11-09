@@ -1,0 +1,65 @@
+# 11.2.2 关键词进阶：LOGO还能这样玩
+
+前面的基础操作掌握后，这一节把提示词再往外扩一圈。同一个LOGO需求，换一种关键词组织方式，常常能得到完全不同的画面。下面给出三条延伸路线：借大师风格、叠加风格词，以及利用AI的文字“小bug”做排版。
+
+## 拓展玩法一：把大师名字塞进关键词
+
+关键词的搭配并不局限于固定模板。你完全可以把LOGO领域的设计大师姓名放进去，让AI参考其风格产出作品。提示词可以按这个结构来写：
+
+【LOGO设计】+【by 设计师名字】+【LOGO风格】+【你想要的画面】
+
+比如想给瑜伽馆做图标，又偏爱Saul Bass的味道，提示词可以写成：
+
+Logo design, by Saul Bass, flat style, girl doing yoga --v 5
+
+![](img/437fbdbe310086ecf11cc0b7fb61eb93.png)
+
+LOGO设计圈里有不少高手，他们笔下的标志成了许多知名品牌的视觉符号。Notion AI整理了一份顶级十人名单，连同代表作一起放在下面，供你参考：
+
+- Paul Rand：美国现代图形设计的奠基者之一，IBM、ABC、UPS等标志都出自他手，这些作品如今已是标志设计中的经典案例。IBM那条由条纹组成的网格，把信息科技的复杂与精准表达得很到位。
+- Milton Glaser：被誉为美国最伟大的平面设计师之一，代表作包括I <3 NY和DC Comics等。前者已经成了纽约市的象征，后者则传递出超级英雄的力量与魅力。
+- Saul Bass：美国电影片头与标志设计领域的著名人物，AT&T、Kleenex、United Airlines等标志均有他的参与。AT&T那只握着电话听筒的手，传递出通信与连接的力量。
+- Massimo Vignelli：意大利最伟大的图形设计师之一，American Airlines、Bloomingdale's、Ford等标志都与他有关。Ford的蓝色椭圆形标志，透出汽车的精致与高贵。
+- Michael Bierut：美国最有才华的图形设计师之一，Hillary Clinton 2016、Saks Fifth Avenue、MIT Media Lab等标志均出自其手。Hillary Clinton 2016的标志由字母H和箭头组成，指向希望与改变。
+- Lindon Leader：美国最有天赋的标志设计师之一，FedEx是其代表作品。那枚紫色与橙色交织的箭头，传达出速度与可信赖。
+- Ivan Chermayeff：美国最有才华的图形设计师之一，NBC、National Geographic、Showtime等标志都有他的身影。NBC的彩色鸟笼标志，象征着娱乐与创造力。
+- Tom Geismar：美国最著名的平面设计师之一，Xerox、Chase Bank、Mobil等标志均在其作品中。Mobil由红色圆圈和蓝色斜线构成，代表能源与创新。
+- Chermayeff & Geismar & Haviv：美国最著名的标志设计团队之一，Armani Exchange、National Parks Service、Library of Congress等标志均出自该团队。Armani Exchange的黑色手写字母，传递出时尚与品味。
+- Chip Kidd：美国最著名的平面设计师之一，Jurassic Park、Batman、Jurassic World等标志均与其相关。Jurassic Park的恐龙骨架剪影，带着冒险与惊险的气质。
+
+最后提醒一句：如果是商业接单，提示词里别出现艺术大师姓名，免得踩到版权纠纷。
+
+## 拓展玩法二：换个风格词，画面立刻变
+
+AI绘画有意思的地方在于，提示词里替换一个词，成图效果就可能大不一样。多试几次，常常会撞见意外之喜。这次先不限定LOGO风格，改成加入其他类型的词语。可套用这个公式：
+
+【字母LOGO设计】+【其他风格】+【你想要的画面】
+
+例如想要“极简风格”，可以这样写：
+
+字母 LOGO 设计，极简风格，一个女孩做瑜伽
+Letter logo design, minimalist style, girl doing yoga
+![](img/457037da6c028b5dd46f6402adcc5f29.png)
+
+![](img/6bdbf8bb1b279de6672966f9d1b92f8e.png)
+
+如果还想多控一层，让背景更干净、线条更简单，可以继续补限制：
+
+字母 LOGO 设计，极简线条，做瑜伽的女孩，白色背景
+Letter logo design, minimalist lines, girl doing yoga, white background --v 5
+
+![](img/97cc9a28500d0506741ac18b55a46df3.png)
+
+## 拓展玩法三：借AI的“小bug”做文字排版
+
+前面讲过，LOGO分为四种类型，其中一种是字形LOGO。对AI绘画来说，它认不出文字，生成的字母通常不是正确拼写；不过，这个短板也能反过来利用，拿来做版式。拿上面那张图来看，眼尖的人会发现LOGO里多了字母。原因在于提示词没有只写【LOGO】，而是写成了【字母 LOGO】。只要加上“字母”，画面里就可能随机出现字母，而且这些文字的排版不用我们再动手设计。后续只要用PS、美图秀秀之类的工具，把图里的原有文字擦掉，再填入自己想要的字母即可。以一张图为例：
+
+![](img/4dd69f004e683817c4ba964014d239e7.png)
+
+修改前
+
+![](img/b838960810e4d7ce660cef15a0809f6b.png)
+
+修改后
+
+![](img/e12d1c8b9f4ffdf6c4edf913cceed533.png)
