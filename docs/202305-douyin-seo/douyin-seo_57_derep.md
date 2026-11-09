@@ -1,0 +1,9 @@
+# 5.7 【妙招】在回复里埋入超链接，轻松引流到私域 @令狐峰
+
+想把公共平台上的关注者快速“牵”进自己的私域地盘，不用绕弯子。方法很简单：在企业号专属的关注自动回复、社群的欢迎语，以及你回复私信时发出去的内容里，把超链接悄悄埋进去。对方只要随手一点，就能直接跳到你的私域阵地，省去一堆繁琐步骤。
+
+工具地址就在这儿：https://ixiaguo.com/，具体怎么操作，看下面的视频演示就一目了然：
+
+[ABUIABA6GAAg4o_WkwYo0vHUoQY.mp4](https://search01.shengcaiyoushu.com/upload/doc/XEb4d9F4WogubixyOM9cMVeen0d/AERLbuf0Mohlb9xgZu3cSi1LnRf)
+
+![](img/75a2819e1a58997a8c18fd3150be6c39.png)
