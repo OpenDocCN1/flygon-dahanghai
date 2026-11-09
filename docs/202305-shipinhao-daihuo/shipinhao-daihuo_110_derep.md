@@ -1,0 +1,35 @@
+# 11.7 其他工具：随取随用的效率清单
+
+做视频号，真正拉开差距的往往不是大设备，而是那些能立刻解决小麻烦的工具。下面按使用场景收了一份导航，创作、上传、录制、素材处理都能找到对应帮手。
+
+**找灵感与规避违禁词**
+- 写脚本缺灵感，可翻“顶尖文案”和“文案狗”。
+- 发布前想排查广告法及淘宝、抖音平台的违禁词、敏感词，可以用句易网：[句易网 - 2022 年最新广告法淘宝抖音违禁词敏感词在线查询检测工具](http://www.ju1.cn/)
+
+**视觉包装**
+- 头像、封面要快速出图，可试 Canva（链接显示为 Attention Required！ | Cloudflare）、在线 LOGO 设计网站，以及图怪兽、创客贴。
+
+**声音与文件流转**
+- 日常配乐用音乐软件即可；需要下载音乐，云猫转码能帮上忙。
+- 音效素材可去爱给网、耳聆网、淘声网翻找。
+- 无损、无压缩文件互传，百度网盘、数据线、闪传、AirDorid 都可以。
+
+**账号运营与上传**
+- 同时管多个账号，抖老板、小火花、视小龙等工具可作备选。
+- [@HZH](https://wx.zsxq.com/dweb2/index/footprint/582524885125424) 做了一个视频号批量上传的小工具，能定时发布，用易语言编写，杀毒软件可能会误报；[视频号辅助助手](https://wwc.lanzout.com/b027a8agj) 密码：fwxe。
+- [@.](https://wx.zsxq.com/dweb2/index/footprint/222812152481) 提到的视频号批量全自动上传工具，文档会持续更新：《（免费/付费）生财施仁视频批量全自动上传工具》，地址：https://udxxg5rx5m.feishu.cn/docs/doccnVOsYWT7HFwloIrfm8pKWcb
+- 想下载视频号内容，[@shine_fore*](https://wx.zsxq.com/dweb2/index/footprint/145512245512) 给的办法是：在微信里搜“去水印易解析”，无需第三方软件，也无需抓包。
+
+**录制与内录**
+- Mac 用户想找免费录屏，[@好奇的神仙](https://wx.zsxq.com/dweb2/index/footprint/422212815441158) 建议试试 screenflow。
+- [@Mr 海华](https://wx.zsxq.com/dweb2/index/footprint/48225222442588) 推荐邦迪录屏：网盘入口 [百度网盘 请输入提取码](https://pan.baidu.com/s/1RXSScEhk9gkMDobemLSOPg?pwd=4prk#list/path=%2F)，提取码 4prk。
+- [@Fredrich](https://wx.zsxq.com/dweb2/index/footprint/222812152481) 觉得 popplayer 播放器做内录同样顺手。
+
+**水印、数字人与去重素材**
+- [@司尘](https://wx.zsxq.com/dweb2/index/footprint/548284811854824) 推荐“快乐抖工具箱”小程序，可去除抖音、快手水印；看一次广告后长期免费。
+- [@张亮（济南）](https://wx.zsxq.com/dweb2/index/footprint/51144112115814) 分享的是智影 -3D 数字人虚拟主播。
+- 视频去重叠加所需素材也整理了一份：[百度网盘 请输入提取码](https://pan.baidu.com/s/12RuCIU_Y1T1WuyDyOOamnQ?pwd=tcki#list/path=%2F&parentPath=%2Fsharelink3928592624-263580112884662)，提取码 tcki。
+
+内容来源：《视频号工具箱合集》
+
+![](img/dda9ffd2a755d5c9e9ef78686ed11785.png)
