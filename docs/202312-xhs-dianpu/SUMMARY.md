@@ -1,2 +1,2 @@
-+   [📕店铺 202312](README.md)
-+   [📕店铺12月实操手册](202312-xhs-dianpu_derep.md)
++   [📕店铺实战手册202312](README.md)
++   [📕店铺实战手册202312](202312-xhs-dianpu_derep.md)

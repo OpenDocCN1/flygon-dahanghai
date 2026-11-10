@@ -1,2 +1,2 @@
-+   [Web3 入门 202312](README.md)
-+   [2023.12｜Web3 零基础实战指南](202312-web3_derep.md)
++   [Web3 入门实战手册202312](README.md)
++   [Web3 入门实战手册202312](202312-web3_derep.md)

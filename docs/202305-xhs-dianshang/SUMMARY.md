@@ -1,4 +1,4 @@
-+   [📕电商合集 202305](README.md)
++   [📕电商合集实战手册202305](README.md)
 +   [337赞精华帖：📕店铺6天12W+营业额操作手册](xhs-dianshang_01_derep.md)
 +   [两份细致指南，建议先收藏](xhs-dianshang_02_derep.md)
 +   [90天，📕无货源店铺营收破50w，我是怎么做的？](xhs-dianshang_03_derep.md)

@@ -1,4 +1,4 @@
-+   [个人优势挖掘实战手册 202305](README.md)
++   [个人优势挖掘实战手册202305](README.md)
 +   [亮一盏小灯](geren-youshi_01_derep.md)
 +   [先找长板，再谈竞争力](geren-youshi_02_derep.md)
 +   [一、把力气花在擅长处 @醒醒同学](geren-youshi_03_derep.md)

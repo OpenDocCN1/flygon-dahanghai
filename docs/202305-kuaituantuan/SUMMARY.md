@@ -1,4 +1,4 @@
-+   [快团团私域实战手册 202305](README.md)
++   [快团团私域实战手册202305](README.md)
 +   [开营前必读](kuaituantuan_01_derep.md)
 +   [一、快团团初识指南](kuaituantuan_02_derep.md)
 +   [一文看懂快团团](kuaituantuan_03_derep.md)

@@ -1,4 +1,4 @@
-+   [离开职场后的新出路 202307](README.md)
++   [离开职场后的新出路实战手册202307](README.md)
 +   [9篇思维认知，建议收藏](xinchulu_01_derep.md)
 +   [精华帖｜程序员，别在龙哥盟拼体力](xinchulu_02_derep.md)
 +   [创业的底层答案，是理想主义](xinchulu_03_derep.md)

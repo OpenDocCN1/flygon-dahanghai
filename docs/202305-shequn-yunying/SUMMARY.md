@@ -1,4 +1,4 @@
-+   [社群运营实战手册 202305](README.md)
++   [社群运营实战手册202305](README.md)
 +   [先懂社群，再谈运营](shequn-yunying_01_derep.md)
 +   [零、准备好，一起启程！](shequn-yunying_02_derep.md)
 +   [0.1 手册学习路径：三步走，边学边建群](shequn-yunying_03_derep.md)

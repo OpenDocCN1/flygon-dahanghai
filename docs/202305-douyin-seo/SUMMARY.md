@@ -1,4 +1,4 @@
-+   [抖音 SEO 实战手册 202305](README.md)
++   [抖音 SEO实战手册202305](README.md)
 +   [亮一盏小灯](douyin-seo_01_derep.md)
 +   [21天跑通抖音搜索流量](douyin-seo_02_derep.md)
 +   [一、高客单项目，别忽略抖音搜索](douyin-seo_03_derep.md)

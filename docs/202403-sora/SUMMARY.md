@@ -1,2 +1,2 @@
-+   [Sora 交流 资讯合集 202403](README.md)
-+   [Sora 情报站｜2024 年 3 月合辑](202403-sora_derep.md)
++   [Sora 交流 资讯合集实战手册202403](README.md)
++   [Sora 交流 资讯合集实战手册202403](202403-sora_derep.md)

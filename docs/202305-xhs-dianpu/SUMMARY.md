@@ -1,4 +1,4 @@
-+   [📕店铺实战手册 202305](README.md)
++   [📕店铺实战手册202305](README.md)
 +   [亮一盏小灯](xhs-dianpu_001_derep.md)
 +   [📕店铺：看清门槛再开干](xhs-dianpu_002_derep.md)
 +   [一、先认识📕](xhs-dianpu_003_derep.md)

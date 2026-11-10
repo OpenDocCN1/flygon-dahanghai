@@ -1,4 +1,4 @@
-+   [如何开一家公司 202308](README.md)
++   [如何开一家公司实战手册202308](README.md)
 +   [创业认知的5个真相](kaigongsi_01_derep.md)
 +   [企业真正的底盘，不在营收里](kaigongsi_02_derep.md)
 +   [创业六年，从烧光5000万到月入十万，我悟到了这些](kaigongsi_03_derep.md)

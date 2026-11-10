@@ -1,4 +1,4 @@
-+   [📕运营实战手册 202305](README.md)
++   [📕运营实战手册202305](README.md)
 +   [亮一盏小灯](xhs-yunying_001_derep.md)
 +   [开篇：入局📕，先弄懂三件事](xhs-yunying_002_derep.md)
 +   [一、先认识📕](xhs-yunying_003_derep.md)

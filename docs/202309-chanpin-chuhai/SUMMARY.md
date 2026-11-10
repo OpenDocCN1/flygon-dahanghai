@@ -1,4 +1,4 @@
-+   [产品出海合集 202309](README.md)
++   [产品出海合集实战手册202309](README.md)
 +   [六篇内容，升级商业判断](chanpin-chuhai_01_derep.md)
 +   [真正赚钱的流量玩法，都藏在水下](chanpin-chuhai_02_derep.md)
 +   [近三十个春秋，他把小买卖做成行业龙头](chanpin-chuhai_03_derep.md)

@@ -1,4 +1,4 @@
-+   [视频号带货实战手册 202305](README.md)
++   [视频号带货实战手册202305](README.md)
 +   [开篇必读](shipinhao-daihuo_001_derep.md)
 +   [第一步｜先把视频号摸清楚](shipinhao-daihuo_002_derep.md)
 +   [1.1 视频号：红利还在，门槛高了](shipinhao-daihuo_003_derep.md)

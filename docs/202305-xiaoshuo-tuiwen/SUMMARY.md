@@ -1,4 +1,4 @@
-+   [小说推文实战手册 202305](README.md)
++   [小说推文实战手册202305](README.md)
 +   [亮一盏小灯](xiaoshuo-tuiwen_001_derep.md)
 +   [新手做副业，不妨从小说推文试起](xiaoshuo-tuiwen_002_derep.md)
 +   [一、小说推文项目是什么？](xiaoshuo-tuiwen_003_derep.md)

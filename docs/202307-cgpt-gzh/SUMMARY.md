@@ -1,4 +1,4 @@
-+   [ChatGPT+👸号合集 202307](README.md)
++   [ChatGPT+👸号合集实战手册202307](README.md)
 +   [7篇风向更新，速览](cgpt-gzh_01_derep.md)
 +   [12天入账近4万：用AI追热点做👸号](cgpt-gzh_02_derep.md)
 +   [十分钟一篇情感稿，流量主一周也能赚](cgpt-gzh_03_derep.md)

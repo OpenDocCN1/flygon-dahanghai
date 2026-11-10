@@ -1,4 +1,4 @@
-+   [宠物赛道合集 202307](README.md)
++   [宠物赛道合集实战手册202307](README.md)
 +   [六篇新动向，集中速览](chongwu_01_derep.md)
 +   [流浪猫猫屋申请刷屏养宠群，这件事真值得聊聊](chongwu_02_derep.md)
 +   [闲鱼宠物生意，适合长期做](chongwu_03_derep.md)

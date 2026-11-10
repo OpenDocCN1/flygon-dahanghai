@@ -1,4 +1,4 @@
-+   [快团团合集 202307](README.md)
++   [快团团合集实战手册202307](README.md)
 +   [项目认知｜3篇合集](kuaituantuan2_01_derep.md)
 +   [快团团和淘客，到底差在哪？](kuaituantuan2_02_derep.md)
 +   [钱不好赚时，先把货卖好](kuaituantuan2_03_derep.md)

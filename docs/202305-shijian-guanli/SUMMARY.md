@@ -1,4 +1,4 @@
-+   [时间管理实战手册 202305](README.md)
++   [时间管理实战手册202305](README.md)
 +   [亮一盏小灯](shijian-guanli_01_derep.md)
 +   [时间管理实战手册：从掌控时间到掌控人生](shijian-guanli_02_derep.md)
 +   [一、时间管理，到底管什么？](shijian-guanli_03_derep.md)

@@ -1,4 +1,4 @@
-+   [📕爆款选品合集 202308](README.md)
++   [📕爆款选品合集实战手册202308](README.md)
 +   [16篇，锁定新动向](xhs-baokuan_01_derep.md)
 +   [刷到停不下来的“创意实用好物”，竟是隐藏选品宝库](xhs-baokuan_02_derep.md)
 +   [章鱼哥墓碑成📕选品黑马](xhs-baokuan_03_derep.md)

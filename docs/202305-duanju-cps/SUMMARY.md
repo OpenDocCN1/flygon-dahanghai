@@ -1,4 +1,4 @@
-+   [短剧 CPS 实战手册 202305](README.md)
++   [短剧 CPS实战手册202305](README.md)
 +   [亮一盏小灯](duanju-cps_01_derep.md)
 +   [短剧CPS实战：新手入局指南](duanju-cps_02_derep.md)
 +   [一、项目速览](duanju-cps_03_derep.md)

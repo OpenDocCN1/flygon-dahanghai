@@ -1,2 +1,2 @@
-+   [风向标挖掘 202312](README.md)
-+   [12月风向标挖掘实战指南](202312-fengxiangbiao-wajue_derep.md)
++   [风向标挖掘实战手册202312](README.md)
++   [风向标挖掘实战手册202312](202312-fengxiangbiao-wajue_derep.md)

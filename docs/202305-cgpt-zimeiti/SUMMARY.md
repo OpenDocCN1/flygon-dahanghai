@@ -1,4 +1,4 @@
-+   [ChatGPT+自媒体实战手册 202305](README.md)
++   [ChatGPT+自媒体实战手册202305](README.md)
 +   [亮一盏小灯](cgpt-zimeiti_01_derep.md)
 +   [5月航海：让 ChatGPT 为自媒体提效](cgpt-zimeiti_02_derep.md)
 +   [上篇：ChatGPT 入门，先把基础用法练熟 @森林](cgpt-zimeiti_03_derep.md)

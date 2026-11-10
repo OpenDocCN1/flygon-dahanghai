@@ -1,4 +1,4 @@
-+   [ChatGPT+海外工具实战手册 202305](README.md)
++   [ChatGPT+海外工具实战手册202305](README.md)
 +   [出海21天：先读这份手册](cgpt-haiwai-gongju_001_derep.md)
 +   [一、认识英文工具站](cgpt-haiwai-gongju_002_derep.md)
 +   [工具站实战：从发现需求到实现变现](cgpt-haiwai-gongju_003_derep.md)

@@ -1,4 +1,4 @@
-+   [AI 绘画变现案例合集 202308](README.md)
++   [AI 绘画变现案例合集实战手册202308](README.md)
 +   [新手必看：仅此一篇](ai-huihua2_01_derep.md)
 +   [新手30天AI绘画变现：提示词实操心得](ai-huihua2_02_derep.md)
 +   [3 篇聊透变现这件事](ai-huihua2_03_derep.md)

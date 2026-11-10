@@ -1,4 +1,4 @@
-+   [高考相关合集 202306](README.md)
++   [高考相关合集实战手册202306](README.md)
 +   [8篇项目分享合集，建议收藏](gaokao-xiangguan_01_derep.md)
 +   [高考两天，校门口卖花也能趁热赚一笔](gaokao-xiangguan_02_0_derep.md)
 +   [两轮改稿，押题书三天冲到近三千单](gaokao-xiangguan_02_1_derep.md)

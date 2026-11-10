@@ -1,4 +1,4 @@
-+   [知识付费合集 202308](README.md)
++   [知识付费合集实战手册202308](README.md)
 +   [9 篇读懂行业](zhishi-fufei_01_derep.md)
 +   [百万之后：内容变现进阶手记（11—37）](zhishi-fufei_02_derep.md)
 +   [别追风口，先把你踩过的坑做成课](zhishi-fufei_03_derep.md)

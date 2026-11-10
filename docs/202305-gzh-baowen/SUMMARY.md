@@ -1,4 +1,4 @@
-+   [👸号爆文写作实战手册 202305](README.md)
++   [👸号爆文写作实战手册202305](README.md)
 +   [亮一盏小灯](gzh-baowen_01_derep.md)
 +   [写出10W+，从这本手册开始](gzh-baowen_02_derep.md)
 +   [一、👸号写作，依然有奔头](gzh-baowen_03_derep.md)

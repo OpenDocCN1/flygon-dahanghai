@@ -1,4 +1,4 @@
-+   [Web3 入门实战手册 202305](README.md)
++   [Web3 入门实战手册202305](README.md)
 +   [启程：为什么现在要认识 Web3？](web3_001_derep.md)
 +   [一、Web3 黑话听不懂？别慌 @可达 Koda](web3_002_derep.md)
 +   [1.1 Web3，凭什么值得关注？](web3_003_derep.md)

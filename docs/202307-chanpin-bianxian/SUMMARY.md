@@ -1,4 +1,4 @@
-+   [产品变现合集 202307](README.md)
++   [产品变现合集实战手册202307](README.md)
 +   [认知专题 · 六篇合集](chanpin-bianxian_01_derep.md)
 +   [普通人找商机，从需求下手](chanpin-bianxian_02_derep.md)
 +   [数据里，藏着 100 个赚钱方向](chanpin-bianxian_03_derep.md)

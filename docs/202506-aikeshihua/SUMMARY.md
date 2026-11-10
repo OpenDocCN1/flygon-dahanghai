@@ -1,2 +1,2 @@
-+   [25年 6 月航海｜AI 可视化｜实战手册](README.md)
-+   [2025年6月 · AI视觉卡片实战指南](202506-aikeshihua_derep.md)
++   [AI 可视化实战手册202506](README.md)
++   [AI 可视化实战手册202506](202506-aikeshihua_derep.md)

@@ -1,2 +1,2 @@
-+   [202412 航海 | AI 写作 | 实战手册](README.md)
-+   [202412 航海｜AI 创作实战手册](202412-aixiezuo_derep.md)
++   [AI 写作实战手册202412](README.md)
++   [AI 写作实战手册202412](202412-aixiezuo_derep.md)

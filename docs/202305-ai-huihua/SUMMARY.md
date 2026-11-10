@@ -1,4 +1,4 @@
-+   [AI 绘画实战手册 202305](README.md)
++   [AI 绘画实战手册202305](README.md)
 +   [亮一盏小灯](ai-huihua_001_derep.md)
 +   [五月航海｜AI 绘画实战手册](ai-huihua_002_derep.md)
 +   [上篇：零基础玩转 AI 绘画](ai-huihua_003_derep.md)

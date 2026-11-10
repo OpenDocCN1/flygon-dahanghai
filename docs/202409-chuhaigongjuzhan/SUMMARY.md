@@ -1,2 +1,2 @@
-+   [202409 航海 | 出海工具站 | 实战手册](README.md)
-+   [202409 航海 | 英文工具站落地地图](202409-chuhaigongjuzhan_derep.md)
++   [出海工具站实战手册202409](README.md)
++   [出海工具站实战手册202409](202409-chuhaigongjuzhan_derep.md)
