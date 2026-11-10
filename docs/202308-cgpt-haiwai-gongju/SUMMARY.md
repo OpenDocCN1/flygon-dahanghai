@@ -1,2 +1,2 @@
 +   [ChatGPT+海外工具 202308](README.md)
-+   [ChatGPT+海外工具 202308](202308-cgpt-haiwai-gongju.md)
++   [2023.08 出海实战：ChatGPT 工具站手册](202308-cgpt-haiwai-gongju_derep.md)
