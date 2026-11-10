@@ -10,9 +10,9 @@
 
 •魔音工坊：[`www.moyin.com/?promottype=BAIDU__PZ-mygf`](https://www.moyin.com/?promottype=BAIDU__PZ-mygf) （付费）
 
-•微配音：微信搜索「微配音」小程序（付费）
+•微配音：🛰️搜索「微配音」小程序（付费）
 
-•配音家：微信搜索「配音家」小程序 （付费）
+•配音家：🛰️搜索「配音家」小程序 （付费）
 
 2）直接配音：标点与读音的处理
 

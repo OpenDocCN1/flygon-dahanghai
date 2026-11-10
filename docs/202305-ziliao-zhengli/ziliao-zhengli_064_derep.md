@@ -37,7 +37,7 @@
 
 **社交与热度**
 
-• 微博热度观察：[入口](http://data.weibo.com/index)
+• 🧣热度观察：[入口](http://data.weibo.com/index)
 • 新浪舆情监测：[入口](http://wyq.sina.com/login.shtml)
 • 百度搜索趋势：[入口](https://index.baidu.com/)
 • 阿里商业数据：[入口](https://dt.alibaba.com/alizs.htm)

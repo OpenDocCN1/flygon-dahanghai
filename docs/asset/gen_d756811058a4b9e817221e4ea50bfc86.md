@@ -4,7 +4,7 @@
 
 先看下载站：`emojixd.com/`。这里有现成 Emoji 资源可取用。
 
-如果想直接复制表情，可以打开下面两条小红书链接：
+如果想直接复制表情，可以打开下面两条📕链接：
 • `www.xiaohongshu.com/discovery/item/61a0eb760000000001027ef3`
 • `www.xiaohongshu.com/discovery/item/6249d070000000002103d271`
 

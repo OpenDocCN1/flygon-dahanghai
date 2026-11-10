@@ -8,4 +8,4 @@
 
 字幕处理可以试试网易见外、突字幕、蜜蜂剪辑，以及用Arctime进行视频字幕压制。
 
-特别提醒：去重逻辑需要先理解、学习，属于必读内容。可参考去重技术从一级到五级的分级说明（知乎）：https://zhuanlan.zhihu.com/p/353343261；防搬运实操技巧（抖音视频）：https://www.douyin.com/video/7038496081491086623；短视频打法与爆量素材策略回顾（公众号文章）：https://mp.weixin.qq.com/s/QTiWdOK1oz3DEv8iRAVHGw。
+特别提醒：去重逻辑需要先理解、学习，属于必读内容。可参考去重技术从一级到五级的分级说明（知乎）：https://zhuanlan.zhihu.com/p/353343261；防搬运实操技巧（抖音视频）：https://www.douyin.com/video/7038496081491086623；短视频打法与爆量素材策略回顾（👸号文章）：https://mp.weixin.qq.com/s/QTiWdOK1oz3DEv8iRAVHGw。

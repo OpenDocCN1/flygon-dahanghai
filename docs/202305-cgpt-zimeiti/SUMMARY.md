@@ -90,7 +90,7 @@
 +   [9.3 第三步：向 ChatGPT 提问并得到对应分析结果](cgpt-zimeiti_89.md)
 +   [十、ChatGPT 在自媒体领域的变现案例](cgpt-zimeiti_90.md)
 +   [章节概要](cgpt-zimeiti_91.md)
-+   [10.1 案例一：用 ChatGPT 写一篇小红书旅游笔记 @菜菜](cgpt-zimeiti_92.md)
++   [10.1 案例一：用 ChatGPT 写一篇📕旅游笔记 @菜菜](cgpt-zimeiti_92.md)
 +   [10.2 案例二：让 ChatGPT 帮助写知乎好物文章 @大胡子](cgpt-zimeiti_93.md)
 +   [10.3 案例三：用 ChatGPT 完成百家号带货文章 @刘伟](cgpt-zimeiti_94.md)
 +   [10.4 案例四：TikTok 影视解说项目 @A 😇路途](cgpt-zimeiti_95.md)

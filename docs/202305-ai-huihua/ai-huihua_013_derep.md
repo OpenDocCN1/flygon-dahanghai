@@ -4,6 +4,6 @@
 
 ![](img/19db377921f12ebcedbc836061ca62ed.png)
 
-它现阶段最亮眼的特点，是和小红书特别合拍——小红书上走红的 Stable diffusion 图片，这里几乎都能找到。
+它现阶段最亮眼的特点，是和📕特别合拍——📕上走红的 Stable diffusion 图片，这里几乎都能找到。
 
 ![](img/e12d1c8b9f4ffdf6c4edf913cceed533.png)

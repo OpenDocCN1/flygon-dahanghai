@@ -98,7 +98,7 @@
 - 表现好的站生命周期可能只有 1—3 个月；
 - 手册教你把流程完整走一遍、跑通它，然后做第二、第三个，每次比上次快。
 
-插个题外话：如果你对自己每日 Token 用量感兴趣，欢迎加入生财 TokenRank。最近不少圈友在用 Codex、Claude Code、Hermes、WorkBuddy 等做项目，但用了多少、坚持多久、做成什么没被记录。TokenRank 能记录真实 AI 使用过程，也方便发现优秀作品和实战案例。注意：Token 高不代表成果好。相比“用了多少”，更关注你用 AI 完成了什么、解决了什么问题。现在 TokenRank 已开放接入，可跟教程安装：https://scys.com/tokenrank/connect 。接入有问题可在航海群反馈。
+插个题外话：如果你对自己每日 Token 用量感兴趣，欢迎加入赚钱 TokenRank。最近不少圈友在用 Codex、Claude Code、Hermes、WorkBuddy 等做项目，但用了多少、坚持多久、做成什么没被记录。TokenRank 能记录真实 AI 使用过程，也方便发现优秀作品和实战案例。注意：Token 高不代表成果好。相比“用了多少”，更关注你用 AI 完成了什么、解决了什么问题。现在 TokenRank 已开放接入，可跟教程安装：https://scys.com/tokenrank/connect 。接入有问题可在航海群反馈。
 
 [PRE1]
 

@@ -26,7 +26,7 @@
 
 | 类型 | 字数标准 | 示例 |
 |------|---------|------|
-| 短篇 | 1 万～5 万字 | 知乎盐言故事、微博连载短篇 |
+| 短篇 | 1 万～5 万字 | 知乎盐言故事、🧣连载短篇 |
 | 长篇 | 50 万字以上为主流 | 《斗破苍穹》超 500 万字 |
 
 ### 8.3.2 发布形式与更新节奏
@@ -348,7 +348,7 @@ https://www.tougao168.com/
 另外其他平台也可以同步发布，实现一鱼多吃：
 
 - 百家号平台：https://baijiahao.baidu.com/
-- 公众号：https://mp.weixin.qq.com/
+- 👸号：https://mp.weixin.qq.com/
 - 大鱼平台：https://mp.dayu.com/
 - 每天读点故事：https://www.gushi.cn/
 
@@ -384,13 +384,13 @@ https://www.tougao168.com/
 
 - 百家号：https://baijiahao.baidu.com/
 - 大鱼号：https://mp.dayu.com/
-- 公众号：https://mp.weixin.qq.com/
+- 👸号：https://mp.weixin.qq.com/
 
 #### 投稿收益
 
 AI 只是我们辅助写小说的工具，前期 3 分润色，7 分 AI；后期达到 5 分润色，5 分 AI，你就可以尝试给编辑进行投稿了。
 
-你在小红书搜索短篇投稿，可以找到很多手稿的编辑。
+你在📕搜索短篇投稿，可以找到很多手稿的编辑。
 
 专业术语 K10、K20 …… 这就是每千字 10 元，每千字 20 元。
 

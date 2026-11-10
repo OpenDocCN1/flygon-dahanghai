@@ -5,5 +5,5 @@
 ![](img/gaokao-xiangguan_0850.png)![](img/gaokao-xiangguan_0855.png)![](img/gaokao-xiangguan_0860.png)![](img/gaokao-xiangguan_0865.png)
 
 评论区：
-亦仁：中标，术值 +1。
+龙哥：中标，术值 +1。
 想查看全部中标风向标，可点击上方专栏里的 #中标。

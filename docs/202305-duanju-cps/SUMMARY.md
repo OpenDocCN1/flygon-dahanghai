@@ -19,7 +19,7 @@
 +   [三、了解短剧推广平台](duanju-cps_18.md)
 +   [章节概要](duanju-cps_19.md)
 +   [3.1 平台一：麻雀 Matrix @思蒙](duanju-cps_20.md)
-+   [3.1.1 注册微信小程序账号](duanju-cps_21.md)
++   [3.1.1 注册🛰️小程序账号](duanju-cps_21.md)
 +   [3.1.2 下载 APP，登录账号](duanju-cps_22.md)
 +   [3.1.3 了解麻雀 Matrix 功能](duanju-cps_23.md)
 +   [3.1.4 麻雀 Matrix 如何实现短剧推广🔥](duanju-cps_24.md)

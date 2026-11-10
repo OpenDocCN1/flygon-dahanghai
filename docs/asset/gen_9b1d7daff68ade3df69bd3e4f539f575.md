@@ -162,7 +162,7 @@ img 标签一定要加上 alt 属性，这是给搜索引擎看的图片说明�
 
 一个页面经常能通过多个 URL 访问，但我们必须在网页 head 中设置 canonical，告诉搜索引擎哪个才是正确且唯一的 URL。
 
-举个例子，微信 App 在苹果 AppStore 的页面，苹果官方指定的唯一 URL 是 https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id414478124。
+举个例子，🛰️ App 在苹果 AppStore 的页面，苹果官方指定的唯一 URL 是 https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id414478124。
 
 但实际上下面这些 URL 也都能打开同一页面：
 
@@ -322,7 +322,7 @@ vercel 的免费额度很大，对于简单的前端工具站，免费额度完�
 
 下面是可购买的详细域名列表及对应价格。
 
-注册时发现不支持微信和支付宝，但支持 paypal，于是用 paypal 购买（paypal 国内可用，可自行了解）。
+注册时发现不支持🛰️和支付宝，但支持 paypal，于是用 paypal 购买（paypal 国内可用，可自行了解）。
 
 [PRE26]
 

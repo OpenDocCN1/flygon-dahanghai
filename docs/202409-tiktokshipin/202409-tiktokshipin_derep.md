@@ -477,7 +477,7 @@ https://www.tiktok.com/@jimmy_hardworking?_t=ZM-8x5EFkkBRbS&_r=1
 2. 点底部中间的加号；
 3. 选视频，进入发布页；
 4. 粘标题、选封面、点发布。
-整体和发抖音差不多；遇到英文看不懂，用微信拍照翻译就行。
+整体和发抖音差不多；遇到英文看不懂，用🛰️拍照翻译就行。
 
 ![](img/0f1d24f95a8e6a5b833e433c75df8de1.png)![](img/73515b222713792b1bc07f9d2a7b23b1.png)![](img/f0c9f0dd154e1c0a4b86ceac23cd7774.png)
 

@@ -12,7 +12,7 @@
 
 https://drj8yia13p.feishu.cn/docs/doccnhPn0wucEzaIHYonuaQFqKh
 
-一起生财有术。
+一起龙哥盟。
 
 评论区：
 

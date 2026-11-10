@@ -70,8 +70,8 @@ ChatGPT Writer 是一款辅助写作插件，场景定位非常精准。除了�
 
 类似补足官方功能空缺的产品还有不少：
 
-• 生财圈友 @码叔编程 的 [AI 会话存档插件](https://sle.xet.tech/s/rzeIG)：支持把 ChatGPT 对话导出为 PDF 等多种格式保存到本地；
-• 生财圈友 @啊洛 开发的 [ChatGPT to Notion](https://chrome.google.com/webstore/detail/chatgpt-to-notion/bknieejaaomeegoflpgcckagimnbbgdp)：一键把会话保存到 Notion；
+• 赚钱圈友 @码叔编程 的 [AI 会话存档插件](https://sle.xet.tech/s/rzeIG)：支持把 ChatGPT 对话导出为 PDF 等多种格式保存到本地；
+• 赚钱圈友 @啊洛 开发的 [ChatGPT to Notion](https://chrome.google.com/webstore/detail/chatgpt-to-notion/bknieejaaomeegoflpgcckagimnbbgdp)：一键把会话保存到 Notion；
 
 再比如 [ChatGPT Master](https://chrome.google.com/webstore/detail/chatgpt-master-chatgpt-ev/cplgddddgbofhhffggfagngknmakifkg)，主打划词+快捷键提问，还支持自定义右键菜单，字段模板可自由配置。交互思路类似 Notion AI——选中一段文字，让 ChatGPT 去干活：润色、翻译、缩写、扩写……你想怎么配就怎么配。
 
@@ -87,11 +87,11 @@ ChatGPT Writer 是一款辅助写作插件，场景定位非常精准。除了�
 
 Shulex VOC 原本在电商评论分析上已经够专业，ChatGPT 帮它再上一层楼：多维度评论分析（产品优缺点、消费者预期）可以高效产出，Listing 优化建议秒出结果，整个产品体验肉眼可见地提升了。营销端也没闲着，借助 ChatGPT 热度和跨境圈红人视频传播，增长势头相当猛。
 
-这种技术底层的变革，让我想起生财圈友强哥的那句名言：研究 NLP 家破人亡，用好 NLP 鱼翅拌饭。
+这种技术底层的变革，让我想起赚钱圈友强哥的那句名言：研究 NLP 家破人亡，用好 NLP 鱼翅拌饭。
 
 同样路径的产品还有「Glowe 阁楼」，用 ChatGPT 底层能力赋能心理咨询，刚拿到一笔千万级融资。
 
-在生财有术内部，AI 教练、AI 鱼丸，甚至 AI 亦仁都在路上。搞不好下一期航海，陪你的就是 AI 教练了。
+在龙哥盟内部，AI 教练、AI 鱼丸，甚至 AI 龙哥都在路上。搞不好下一期航海，陪你的就是 AI 教练了。
 
 这些案例，都在我身边真实发生着。
 
@@ -124,11 +124,11 @@ Shulex VOC 原本在电商评论分析上已经够专业，ChatGPT 帮它再上�
 
 补充一下，目前 ChatGPT Plus 版已经逐步支持联网，并接入了 70 多个第三方插件，覆盖教育、电商、娱乐、新闻、投资等各个领域。圈友 @黄小刀 整理了一份详细的插件功能清单，除了上面提到的这几个，那些功能描述说不定也能给你不少灵感：[《ChatGPT Plugins 清单 @黄小刀》](https://shengcaiyoushu01.feishu.cn/sheets/shtcnbZVcicTbk6DKuspfcIWfqg)
 
-另外，在生财有术社群里，和 ChatGPT 相关的风向标帖子里也藏着大量需求线索。
+另外，在龙哥盟社群里，和 ChatGPT 相关的风向标帖子里也藏着大量需求线索。
 
 我们还整理了 73 条技术应用相关的风向标，供大家参考，看看有没有适合你的工具站机会点：
 
-生财有术 ChatGPT 中标风向标合集（技术应用类）
+龙哥盟 ChatGPT 中标风向标合集（技术应用类）
 
 ![](img/dc3cdf09de93c8f11c0559df7d344848.png)
 ![](img/d3dc15a615db58a3c5ef15184454d4ab.png)

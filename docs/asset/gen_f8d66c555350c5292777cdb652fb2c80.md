@@ -19,4 +19,4 @@
 https://t.zsxq.com/e2B2rjm
 https://runqqmrvph.feishu.cn/docs/doccnwbL5WfN7AtVu3HSfGemfuf#
 
-内容发出后，不少圈友留言打气，亦仁也把它加了精华；评论区还有做跨境物流的朋友来交流发货合作。
+内容发出后，不少圈友留言打气，龙哥也把它加了精华；评论区还有做跨境物流的朋友来交流发货合作。

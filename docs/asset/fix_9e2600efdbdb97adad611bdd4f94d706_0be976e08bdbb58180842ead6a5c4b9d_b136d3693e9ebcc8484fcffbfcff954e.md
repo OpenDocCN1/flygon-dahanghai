@@ -65,7 +65,7 @@
 - 删除与恢复团购：[说明](https://mp.weixin.qq.com/s/AM8zR1b6BSlcOiG71SAnbQ)
 - 接收顾客下单通知：[说明](https://mp.weixin.qq.com/s/L23mGFh3vMWgzku7wTHQOg)
 - 自提点负责人：[说明](https://mp.weixin.qq.com/s/iZ-y-00bYkeNB88PBM4blw)
-- 会员奖励：[说明](https://mp.weixin.qq.com/s/VTUzjctNFV_f0KY5QQ5lHg)
+- 会员奖励：[说明](https://mp.weixin.qq.com/s/VTUzjctNFV_f0KY5🐧5lHg)
 - 数据中心：[说明](https://mp.weixin.qq.com/s/-ojoApdv8m0NRDTk7buc6g)
 - 物流查询码：[说明](https://mp.weixin.qq.com/s/UxxJHSgzeTL5-ZKjS5VEhg)
 - 积分奖励：[说明](https://mp.weixin.qq.com/s/st9J9YRPLH2Lkxd9B0q19Q)
@@ -92,7 +92,7 @@
 - 直播中添加商品：[说明](https://mp.weixin.qq.com/s/MhcMZg0Ed0rlwMCaD8oGAw)
 
 ## 团长杂项问答
-- 团购链接插入公众号：[说明](https://mp.weixin.qq.com/s/AuRu7JWvVrGA-gioquTlag)
+- 团购链接插入👸号：[说明](https://mp.weixin.qq.com/s/AuRu7JWvVrGA-gioquTlag)
 - 分享单个商品：[说明](https://mp.weixin.qq.com/s/E6-rT6z-IIvvZ7oQSLZRNA)
 - 屏蔽他人开的团：[说明](https://mp.weixin.qq.com/s/Ebs8HO03L501JYoluJI-CQ)
 - 在线联系顾客：[说明](https://mp.weixin.qq.com/s/9nwDeU4SxE-GbjjLoOY-Uw)

@@ -4,7 +4,7 @@
 
 - 知乎高人气书单入口：[点击查看](https://oitoj8zbkk.feishu.cn/sheets/shtcnFNderLL3Fq2BVt6o9vjkrA)
 - 最右爆款书单汇总：[点击查看](https://oitoj8zbkk.feishu.cn/sheets/shtcnYU5uqjhgR3uISV5f2BrCBc?from=from_parent_sheet)
-- QQ阅读畅销书单：[点击查看](https://oitoj8zbkk.feishu.cn/sheets/shtcnf8HpPEngYpI43hyMMW4xTd)
+- 🐧阅读畅销书单：[点击查看](https://oitoj8zbkk.feishu.cn/sheets/shtcnf8HpPEngYpI43hyMMW4xTd)
 - UC平台热门书单：[点击查看](https://oitoj8zbkk.feishu.cn/sheets/shtcnHDN49f1dFuDRgiZkON3dng)
 - 书旗爆款书单（访问密码：uCHa）：[点击查看](https://oitoj8zbkk.feishu.cn/sheets/shtcnhJasChbXZu3NEVlyQG3CMc)
 - 番茄热门书单（访问密码：UqWN）：[点击查看](https://bytedance.feishu.cn/sheets/shtcnlZeYIhjQLFgl3Ti9sCP5mh)

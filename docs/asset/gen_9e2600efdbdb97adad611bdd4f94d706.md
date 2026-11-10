@@ -72,7 +72,7 @@
 - 团购怎样删除和恢复？[链接](https://mp.weixin.qq.com/s/AM8zR1b6BSlcOiG71SAnbQ)
 - 团长怎样接收买家下单通知？[链接](https://mp.weixin.qq.com/s/L23mGFh3vMWgzku7wTHQOg)
 - 自提点负责人怎么设置？[链接](https://mp.weixin.qq.com/s/iZ-y-00bYkeNB88PBM4blw)
-- 会员奖励如何设置？[链接](https://mp.weixin.qq.com/s/VTUzjctNFV_f0KY5QQ5lHg)
+- 会员奖励如何设置？[链接](https://mp.weixin.qq.com/s/VTUzjctNFV_f0KY5🐧5lHg)
 - 数据中心怎么使用？[链接](https://mp.weixin.qq.com/s/-ojoApdv8m0NRDTk7buc6g)
 - 团长怎样获得物流查询码？[链接](https://mp.weixin.qq.com/s/UxxJHSgzeTL5-ZKjS5VEhg)
 - 积分奖励怎样设置？[链接](https://mp.weixin.qq.com/s/st9J9YRPLH2Lkxd9B0q19Q)
@@ -99,7 +99,7 @@
 - 直播过程中怎么添加商品？[链接](https://mp.weixin.qq.com/s/MhcMZg0Ed0rlwMCaD8oGAw)
 
 ## 团长其他疑问
-- 团购链接怎样插入公众号？[链接](https://mp.weixin.qq.com/s/AuRu7JWvVrGA-gioquTlag)
+- 团购链接怎样插入👸号？[链接](https://mp.weixin.qq.com/s/AuRu7JWvVrGA-gioquTlag)
 - 团长如何分享单个商品？[链接](https://mp.weixin.qq.com/s/E6-rT6z-IIvvZ7oQSLZRNA)
 - 怎样屏蔽别人开的团？[链接](https://mp.weixin.qq.com/s/Ebs8HO03L501JYoluJI-CQ)
 - 团长怎样在线联系买家？[链接](https://mp.weixin.qq.com/s/9nwDeU4SxE-GbjjLoOY-Uw)

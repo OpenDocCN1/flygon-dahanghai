@@ -5,7 +5,7 @@
 +   [1.2 四种视频号变现场景 @盗坤](shipinhao-daihuo_004.md)
 +   [小节概要](shipinhao-daihuo_005.md)
 +   [1.2.1 朋友圈投放，视频号转化](shipinhao-daihuo_006.md)
-+   [1.2.2 视频号引流，公众号变现](shipinhao-daihuo_007.md)
++   [1.2.2 视频号引流，👸号变现](shipinhao-daihuo_007.md)
 +   [1.2.3 视频号引流，私域变现](shipinhao-daihuo_008.md)
 +   [1.2.4 视频号引流，视频号变现](shipinhao-daihuo_009.md)
 +   [第二步 - 创作前的准备](shipinhao-daihuo_010.md)

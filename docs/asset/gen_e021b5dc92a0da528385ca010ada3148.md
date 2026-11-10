@@ -1,6 +1,6 @@
 # 3.3.2 企业型：开店全流程
 
-企业型店铺要准备的材料相对更多，建议直接在电脑端登录小红书入驻系统办理，入口为：[gaia.xiaohongshu.com](http://gaia.xiaohongshu.com/)
+企业型店铺要准备的材料相对更多，建议直接在电脑端登录📕入驻系统办理，入口为：[gaia.xiaohongshu.com](http://gaia.xiaohongshu.com/)
 
 先把普通企业店走一遍，登录后大致分六步。
 

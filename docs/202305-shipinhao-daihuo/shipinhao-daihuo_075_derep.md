@@ -15,14 +15,14 @@
 更细的规则可查阅官方资料：
 
 - [《视频号带货中心小程序联盟商品优选计划》](https://developers.weixin.qq.com/community/develop/doc/0006e6475ace406e451e3aa1c5bc01?highLine=%25E8%25A7%2586%25E9%25A2%2591%25E5%258F%25B7%25E5%25B8%25A6%25E8%25B4%25A7%25E4%25B8%25AD%25E5%25BF%2583%25E5%25B0%258F%25E7%25A8%258B%25E5%25BA%258F%25E8%2581%2594%25E7%259B%259F%25E5%2595%2586%25E5%2593%2581%25E4%25BC%2598%25E9%2580%2589%25E8%25AE%25A1%25E5%2588%2592)
-- [【官方】《微信视频号「优选联盟」准入及清退规则》](https://szsupport.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/u1hpGXn4BYFW57yE)
-- [《微信视频号优选联盟各类目开放禁入明细》](https://docs.qq.com/sheet/DSVlGRFh3V2FiZGVQ?tab=BB08J2)
+- [【官方】《🛰️视频号「优选联盟」准入及清退规则》](https://szsupport.weixin.qq.com/cgi-bin/mmsupportacctnodeweb-bin/pages/u1hpGXn4BYFW57yE)
+- [《🛰️视频号优选联盟各类目开放禁入明细》](https://docs.qq.com/sheet/DSVlGRFh3V2FiZGVQ?tab=BB08J2)
 
 需要留意，视频号店铺政策调整比较频繁，准备进入选品库前务必确认最新公告；航海过程中若有疑问，可以直接在航海大群提出。
 
 ## 进入选品库的操作流程
 
-1. 先登录微信小商店管理端：`https://shop.weixin.qq.com/`
+1. 先登录🛰️小商店管理端：`https://shop.weixin.qq.com/`
 
 2. 在后台导航中找到“推广中心”，再进入“小程序联盟”：
 
@@ -86,7 +86,7 @@
 
 - 推客端已登录，却检索不到店铺商品，是什么原因？
 
-  答：通常因为微信小商店运营未满 30 天、商品未达要求，或上架时间过短。
+  答：通常因为🛰️小商店运营未满 30 天、商品未达要求，或上架时间过短。
 
 - 绑定资金账户时出现“带货中心绑定银行账户 [37022]”报错，如何处理？
 

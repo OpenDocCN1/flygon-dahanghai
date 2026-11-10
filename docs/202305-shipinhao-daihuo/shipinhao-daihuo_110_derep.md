@@ -17,8 +17,8 @@
 **账号运营与上传**
 - 同时管多个账号，抖老板、小火花、视小龙等工具可作备选。
 - [@HZH](https://wx.zsxq.com/dweb2/index/footprint/582524885125424) 做了一个视频号批量上传的小工具，能定时发布，用易语言编写，杀毒软件可能会误报；[视频号辅助助手](https://wwc.lanzout.com/b027a8agj) 密码：fwxe。
-- [@.](https://wx.zsxq.com/dweb2/index/footprint/222812152481) 提到的视频号批量全自动上传工具，文档会持续更新：《（免费/付费）生财施仁视频批量全自动上传工具》，地址：https://udxxg5rx5m.feishu.cn/docs/doccnVOsYWT7HFwloIrfm8pKWcb
-- 想下载视频号内容，[@shine_fore*](https://wx.zsxq.com/dweb2/index/footprint/145512245512) 给的办法是：在微信里搜“去水印易解析”，无需第三方软件，也无需抓包。
+- [@.](https://wx.zsxq.com/dweb2/index/footprint/222812152481) 提到的视频号批量全自动上传工具，文档会持续更新：《（免费/付费）赚钱施仁视频批量全自动上传工具》，地址：https://udxxg5rx5m.feishu.cn/docs/doccnVOsYWT7HFwloIrfm8pKWcb
+- 想下载视频号内容，[@shine_fore*](https://wx.zsxq.com/dweb2/index/footprint/145512245512) 给的办法是：在🛰️里搜“去水印易解析”，无需第三方软件，也无需抓包。
 
 **录制与内录**
 - Mac 用户想找免费录屏，[@好奇的神仙](https://wx.zsxq.com/dweb2/index/footprint/422212815441158) 建议试试 screenflow。

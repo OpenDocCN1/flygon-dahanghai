@@ -1,6 +1,6 @@
-# 小红书最火的AI账号，是头像号
+# 📕最火的AI账号，是头像号
 
-在小红书做AI绘画，眼下跑得最猛的一类账号，就是头像号。
+在📕做AI绘画，眼下跑得最猛的一类账号，就是头像号。
 
 爆款笔记的点赞天花板能到5万，再叠加评论和收藏，单篇互动量往往能冲到十万级别。
 
@@ -21,5 +21,5 @@
 ![](img/ai-huihua2_166.png)![](img/ai-huihua2_167.png) ![](img/ai-huihua2_168.png)![](img/ai-huihua2_169.png)![](img/ai-huihua2_170.png) ![](img/ai-huihua2_171.png)![](img/ai-huihua2_172.png) ![](img/ai-huihua2_173.png)![](img/ai-huihua2_174.png)![](img/ai-huihua2_175.png)
 
 评论区：
-亦仁：中标，术值+1。
+龙哥：中标，术值+1。
 在上方 #星球栏目 专栏中，点击 #中标，可查看所有中标风向标。

@@ -6,7 +6,7 @@
 
 ![](img/b65afa0929553594aed54d1fa8ecb1b6.png)
 
-电子书的话，微信读书官网（[`weread.qq.com/`](https://weread.qq.com/)）或客户端都很方便；此外，中国国家图书馆（[`www.nlc.cn/`](http://www.nlc.cn/)）等线上图书馆也能满足需求。
+电子书的话，🛰️读书官网（[`weread.qq.com/`](https://weread.qq.com/)）或客户端都很方便；此外，中国国家图书馆（[`www.nlc.cn/`](http://www.nlc.cn/)）等线上图书馆也能满足需求。
 
 ![](img/6e0f74e052ea132e8fe17e4c047ce9d8.png)
 

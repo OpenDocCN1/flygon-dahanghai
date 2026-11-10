@@ -12,7 +12,7 @@
 
 5. 未完待续……
 
-想继续交流，可以加微信：tomxu123。
+想继续交流，可以加🛰️：tomxu123。
 
 ![](img/chanpin-chuhai_1566.png)
 ![](img/chanpin-chuhai_1571.png)

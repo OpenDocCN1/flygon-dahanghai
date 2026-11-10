@@ -98,7 +98,7 @@ ChatGPT 的全名是 Chat Generative Pre-trained Transformer，它基于生成�
 | 词汇 | 含义 | 举例 |
 |------|------|------|
 | PGC | 专业生成内容，由专业创作者/机构制作 | CCTV、央视网、人民日报 |
-| UGC | 用户生成内容，普通用户创建分享 | 抖音、bilibili、小红书 |
+| UGC | 用户生成内容，普通用户创建分享 | 抖音、bilibili、📕 |
 | AIGC | 人工智能生成内容，AI 创作或辅助创作 | 用 AI 写的文案、画的图 |
 | 提示词 | 发送给 AI 让它生成内容的指令 | "写一份 2000 字的二战稿件" |
 | GPTs / GPT store | 自定义创建的 GPT 叫 GPTs，汇集的地方叫 GPT store | 在 OpenAI 上创建专属对话 |

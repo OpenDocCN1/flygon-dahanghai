@@ -16,7 +16,7 @@
 
   https://ouotool.com/dy
 
-- 微信视频号里的内容怎么存？这份飞书文档写得挺清楚：
+- 🛰️视频号里的内容怎么存？这份飞书文档写得挺清楚：
 
   https://w63nbfedzw.feishu.cn/docs/doccnYwjIy8xtyQzwub5WeEsWLh
 

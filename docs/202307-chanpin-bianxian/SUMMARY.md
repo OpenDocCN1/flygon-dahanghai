@@ -18,7 +18,7 @@
 +   [(精华帖)(95 赞)小众产品的起点——需求挖掘（进阶篇）](chanpin-bianxian_17.md)
 +   [(精华帖)(66 赞)如何挖掘小众产品的需求（入门级）](chanpin-bianxian_18.md)
 +   [【关键词挖掘】2 篇](chanpin-bianxian_19.md)
-+   [(精华帖)(109 赞)以 TikTok 举例，如何发现海外产品的生财机会 ？](chanpin-bianxian_20.md)
++   [(精华帖)(109 赞)以 TikTok 举例，如何发现海外产品的赚钱机会 ？](chanpin-bianxian_20.md)
 +   [(精华帖)(105 赞)聊一聊 Google 关键词挖掘需求的方法](chanpin-bianxian_21.md)
 +   [【ChatGPT 借力】2 篇](chanpin-bianxian_22.md)
 +   [(精华帖)(499 赞)利用 GPT4 迅速将想法落地，让创意在半天时间内变成 MVP！](chanpin-bianxian_23.md)
