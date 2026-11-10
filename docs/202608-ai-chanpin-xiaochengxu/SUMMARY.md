@@ -1,1 +1,2 @@
 +   [AI 产品（国内-微信小程序）丨实战手册丨 8 月航海](README.md)
++   [AI 产品（国内-微信小程序）丨实战手册丨 8 月航海](202608-ai-chanpin-xiaochengxu.md)
