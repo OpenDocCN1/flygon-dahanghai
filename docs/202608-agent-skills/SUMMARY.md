@@ -1,2 +1,2 @@
 +   [Agent Skills 炼术营 丨实战手册丨2026 年](README.md)
-+   [Agent Skills 炼术营 丨实战手册丨2026 年](202608-agent-skills.md)
++   [2026 Agent Skills 实战手册丨跟着做就能出成果](202608-agent-skills_derep.md)
