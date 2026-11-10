@@ -7,6 +7,7 @@
 5.  核心概念添加 Mermaid 图表来解释
 6.  如果一个操作需要编程实现，附上完整代码，添加详细注释
 7.  如果需要插入图片，优先从素材中寻找，如果素材没有，可以调用百度搜索来寻找，如果再没有，就编写图片描述，链接位置留空。
-8.  细纲位于`asset/detail.md`
-9.  草稿位于`draft/draft*.md`
-0.  素材位于`D:/docs/geekdoc/documind-dl-zh/docs/*/*.md`
+8.  正文中不要出现“对应素材”小节和素材名称
+9.  细纲位于`asset/detail.md`
+0.  草稿位于`draft/draft*.md`
+1.  素材位于`D:/docs/geekdoc/documind-dl-zh/docs/*/*.md`
