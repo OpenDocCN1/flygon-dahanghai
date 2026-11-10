@@ -1,4 +1,4 @@
-# 思维导图特训 202312｜从会画到会用
+# 思维导图特训实战手册202312
 
 资料出处：https://remhu1p2pr.feishu.cn/docx/AR2kdWOw3oYpPcxueebcPm8Gnfh
 

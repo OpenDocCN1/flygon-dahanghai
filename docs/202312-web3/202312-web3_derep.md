@@ -1,4 +1,4 @@
-# 2023.12｜Web3 零基础实战指南
+# Web3 入门实战手册202312
 
 来源文档：remhu1p2pr.feishu.cn（路径 docx/YO1Sd1J38olrtYxnEeecBKqvnbe）
 更新日期：2023-12-20

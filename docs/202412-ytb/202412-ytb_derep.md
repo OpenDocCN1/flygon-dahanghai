@@ -1,4 +1,4 @@
-# 航海实战｜Shorts 变现路线图
+# YouTube shorts实战手册202412
 
 # 💡
 

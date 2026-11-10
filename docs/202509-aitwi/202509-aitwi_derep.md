@@ -1,4 +1,4 @@
-# X（推特）AI 自媒体实战手册：2025 年 9 月版
+# AI 自媒体 - X（推特）实战手册202509
 
 原文链接：https://ocn93f5d9olj.feishu.cn/docx/BamVdmYu2opFKwxH4XBce4j5nKe
 

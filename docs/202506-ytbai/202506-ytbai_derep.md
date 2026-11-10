@@ -1,4 +1,4 @@
-# 6 月航海｜AI 短视频出海实战指南
+# YouTube Al Shorts实战手册202506
 
 来源：[https://ocn93f5d9olj.feishu.cn/docx/CVOfdqbtpowQzFxIo4EcRfghnlf](https://ocn93f5d9olj.feishu.cn/docx/CVOfdqbtpowQzFxIo4EcRfghnlf)
 

@@ -1,4 +1,4 @@
-# 2026 Agent Skills 实战手册丨跟着做就能出成果
+# Agent Skills 炼术营实战手册202608
 
 
 

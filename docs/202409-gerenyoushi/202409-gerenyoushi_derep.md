@@ -1,4 +1,4 @@
-# 202409 航海：找到你的拿手项
+# 个人优势挖掘实战手册202409
 
 素材来源：https://ocn93f5d9olj.feishu.cn/docx/UxHfdUNznoj2ltxuYxRc73eIncb
 

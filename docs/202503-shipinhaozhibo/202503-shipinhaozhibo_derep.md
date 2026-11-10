@@ -1,4 +1,4 @@
-# 202503 航海｜中老年视频号直播变现手册
+# 视频号直播（中老年赛道）实战手册202503
 
 资料出处：https://ocn93f5d9olj.feishu.cn/docx/UH3Gdecm7ocDF0xa6TCcwwU3nib
 

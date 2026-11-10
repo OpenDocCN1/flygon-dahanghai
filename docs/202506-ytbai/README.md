@@ -1,1 +1,1 @@
-# 202506 航海｜YouTube Al Shorts｜实战手册
+# YouTube Al Shorts实战手册202506
