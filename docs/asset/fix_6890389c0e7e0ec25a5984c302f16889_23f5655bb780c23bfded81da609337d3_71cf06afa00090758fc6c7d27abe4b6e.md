@@ -1,6 +1,6 @@
 # 📕新号从0到1起号指南
 
-> 原文档地址：[`remhu1p2pr.feishu.cn/docx/JyeIdDl2JoswDfxGpSjct8m4nTc`](https://remhu1p2pr.feishu.cn/docx/JyeIdDl2JoswDfxGpSjct8m4nTc)
+
 
 整理时间：2023 年 12 月 10 日
 

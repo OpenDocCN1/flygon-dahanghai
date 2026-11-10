@@ -1,6 +1,6 @@
 # 社群发起人：一份实战手册
 
-> 来源：[`remhu1p2pr.feishu.cn/docx/QXJAdhbPUod0Prx9zcvcqEeUnJf`](https://remhu1p2pr.feishu.cn/docx/QXJAdhbPUod0Prx9zcvcqEeUnJf)
+
 
 出品时间：2023 年 8 月 10 日
 

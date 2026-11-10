@@ -1,6 +1,6 @@
 # 📕 AI 账号实战丨2025 年 9 月航海手册
 
-> 来源：[https://ocn93f5d9olj.feishu.cn/docx/G0Fnde3WsohslsxiLNpcKRibnyf](https://ocn93f5d9olj.feishu.cn/docx/G0Fnde3WsohslsxiLNpcKRibnyf)
+
 
 # ⛵新手踏入【AI 自媒体-📕】的第一课
 

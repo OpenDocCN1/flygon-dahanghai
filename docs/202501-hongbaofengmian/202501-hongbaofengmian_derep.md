@@ -1,6 +1,6 @@
 # 红包封面分销：从开店到承接的完整路径
 
-> 原始文档：[https://ocn93f5d9olj.feishu.cn/docx/AYbadCiGxoLSFSxxc1AcUBN5n2f](https://ocn93f5d9olj.feishu.cn/docx/AYbadCiGxoLSFSxxc1AcUBN5n2f)
+
 
 防失联+MM188166M（李李）长期更新频繁+备用V:MG10127
 

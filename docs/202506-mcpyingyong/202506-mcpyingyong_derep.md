@@ -1,6 +1,6 @@
 # 202506 航海 · MCP 应用探索实战手册
 
-> 来源：https://ocn93f5d9olj.feishu.cn/docx/E8m8d1whTo2cHPxCHmYcb33rnsb
+
 
 ![](img/d5e1e5cbc2c2dfa18b41636232985c98.png)
 

@@ -1,6 +1,6 @@
 # 快团团私域变现实战指南（2023.8）
 
-> 资料来自：[`remhu1p2pr.feishu.cn/docx/F8g5dcDLlomGiCxkgxkcwYgEnCz`](https://remhu1p2pr.feishu.cn/docx/F8g5dcDLlomGiCxkgxkcwYgEnCz)
+
 
 成稿日期：2023年8月11日
 

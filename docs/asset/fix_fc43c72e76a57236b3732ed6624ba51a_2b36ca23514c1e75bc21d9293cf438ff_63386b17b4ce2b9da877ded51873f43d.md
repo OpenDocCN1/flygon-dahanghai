@@ -1,6 +1,6 @@
 # 让 ChatGPT 真正省时间：2024.03 操作手册
 
-> 原文出处：[`jviztcgxxfy.feishu.cn/docx/WKxrdFoFWogVStxySLlcsTPqnOb`](https://jviztcgxxfy.feishu.cn/docx/WKxrdFoFWogVStxySLlcsTPqnOb)
+
 
 三月航线｜ChatGPT 效率实践｜操作手册
 

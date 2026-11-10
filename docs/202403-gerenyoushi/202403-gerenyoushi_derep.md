@@ -1,6 +1,6 @@
 # 强项挖掘实操手册 202403
 
-> 原始资料：[`jviztcgxxfy.feishu.cn/docx/Jkj6dHFyboIJR5x2cdbc8Mzindd`](https://jviztcgxxfy.feishu.cn/docx/Jkj6dHFyboIJR5x2cdbc8Mzindd)
+
 
 ![](img/6ee94f2838fb3d96c134bb40ad1ea625.png)
 

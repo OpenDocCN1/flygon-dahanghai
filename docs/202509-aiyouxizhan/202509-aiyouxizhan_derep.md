@@ -1,6 +1,6 @@
 # 零基础AI游戏站：从建站到收美元
 
-> 资料出自：https://ocn93f5d9olj.feishu.cn/docx/VbCzdLMCeoRhyYxCpiSck0Fqnbb
+
 
 ## 1. 为什么把目光落在游戏站上
 

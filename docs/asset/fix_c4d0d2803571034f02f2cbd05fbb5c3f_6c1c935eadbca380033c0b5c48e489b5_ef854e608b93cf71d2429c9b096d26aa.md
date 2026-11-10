@@ -1,6 +1,6 @@
 # 选品特训 202312｜选品不是碰运气
 
-> 文档出处：[`remhu1p2pr.feishu.cn/docx/HWrudxMMboDVe9xv0CNcGC78nfg`](https://remhu1p2pr.feishu.cn/docx/HWrudxMMboDVe9xv0CNcGC78nfg)
+
 
 成稿日期：2023 年 12 月 28 日
 

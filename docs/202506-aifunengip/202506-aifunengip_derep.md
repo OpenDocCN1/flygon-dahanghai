@@ -1,6 +1,6 @@
 # 202506 航海｜AI 帮你锁定个人赛道｜行动指南
 
-> 素材出处：[https://ocn93f5d9olj.feishu.cn/docx/LBEsdDuQvoHdhNxN092cgxaMnFe](https://ocn93f5d9olj.feishu.cn/docx/LBEsdDuQvoHdhNxN092cgxaMnFe)
+
 
 ![](img/88dae537e19ee7f142efae03ff08b136.png)
 

@@ -1,6 +1,6 @@
 # 202312 闲鱼旧书航海手册
 
-> 原文档：[`remhu1p2pr.feishu.cn/docx/AXzQd4pYvos8AgxFdFLcV82wnXd`](https://remhu1p2pr.feishu.cn/docx/AXzQd4pYvos8AgxFdFLcV82wnXd)
+
 >
 > 发布时间：2023年12月18日
 >

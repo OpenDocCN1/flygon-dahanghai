@@ -1,6 +1,6 @@
 # Claude Code 实战指南：零基础快速上手（2025 年 9 月）
 
-> 来源：[https://ocn93f5d9olj.feishu.cn/docx/S4tCdZRhSo9cFExTKakcEBnEnYe](https://ocn93f5d9olj.feishu.cn/docx/S4tCdZRhSo9cFExTKakcEBnEnYe)
+
 
 # ⛵零基础怎么加入【Claude Code 编程指南】项目？
 

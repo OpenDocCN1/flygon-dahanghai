@@ -1,6 +1,6 @@
 # 社群发起人 · 八月启航
 
-> 来源：[`remhu1p2pr.feishu.cn/docx/QXJAdhbPUod0Prx9zcvcqEeUnJf`](https://remhu1p2pr.feishu.cn/docx/QXJAdhbPUod0Prx9zcvcqEeUnJf)
+
 
 产出时间：2023 年 8 月 10 日
 

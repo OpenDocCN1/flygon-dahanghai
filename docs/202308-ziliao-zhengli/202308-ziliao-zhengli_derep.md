@@ -1,6 +1,6 @@
 # 202308 资料整理：碎片收得住，用时找得到
 
-> 原始出处：[`remhu1p2pr.feishu.cn/docx/XSRCdjnlcoGuJ5xN4CBcf8YAnhd`](https://remhu1p2pr.feishu.cn/docx/XSRCdjnlcoGuJ5xN4CBcf8YAnhd)
+
 >
 > 成稿日期：2023 年 8 月 18 日
 >

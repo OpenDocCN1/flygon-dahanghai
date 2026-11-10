@@ -1,6 +1,6 @@
 # 剪出第一支成片：三周剪辑起步路线
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/YJ0UdReZCoLKybxQfmNcptugn4g`](https://jviztcgxxfy.feishu.cn/docx/YJ0UdReZCoLKybxQfmNcptugn4g)
+
 
 ![](img/200330f91782facce3e9cb9757e34443.png)
 

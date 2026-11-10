@@ -1,6 +1,6 @@
 # 2025 年 9 月航海手册：AI 自媒体在📕上的落地玩法
 
-> 来源：[https://ocn93f5d9olj.feishu.cn/docx/G0Fnde3WsohslsxiLNpcKRibnyf](https://ocn93f5d9olj.feishu.cn/docx/G0Fnde3WsohslsxiLNpcKRibnyf)
+
 
 # ⛵小白启程：AI 自媒体📕项目怎么玩？
 

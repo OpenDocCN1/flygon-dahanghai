@@ -1,6 +1,6 @@
 # 拖拽式自动化：2025 年 9 月实战手册
 
-> 原文链接：[https://ocn93f5d9olj.feishu.cn/docx/EZ1CdoMgHoXcIcxqcC6cOQlFnCb](https://ocn93f5d9olj.feishu.cn/docx/EZ1CdoMgHoXcIcxqcC6cOQlFnCb)
+
 
 ![](img/e282763b0159ea8344a837ae778c4387.png)
 

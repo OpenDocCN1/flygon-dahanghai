@@ -1,6 +1,6 @@
 # 数字游民 202308
 
-> 来源：[`remhu1p2pr.feishu.cn/docx/EoEfdChUxokYtJxO9ducUapMnbf`](https://remhu1p2pr.feishu.cn/docx/EoEfdChUxokYtJxO9ducUapMnbf)
+
 
 # 8月航海｜数字游民｜实操宝典
 

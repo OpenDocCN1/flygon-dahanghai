@@ -1,6 +1,6 @@
 # 视频号分成计划｜实操手册（2024年3月）
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/I0Mtd6jNcoBF7Hx4XxNcEaZEnXf`](https://jviztcgxxfy.feishu.cn/docx/I0Mtd6jNcoBF7Hx4XxNcEaZEnXf)
+
 
 3月航海｜视频号分成计划｜实战手册
 

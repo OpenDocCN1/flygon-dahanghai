@@ -1,6 +1,6 @@
 # 202409 航海｜从零认识 Web3 的实操手册
 
-> 原始出处：https://ocn93f5d9olj.feishu.cn/docx/SJDbdav9eoIrg4xPxhLcKIm0neg
+
 >
 > 防走丢加 MM188166M（李李），内容持续更新
 

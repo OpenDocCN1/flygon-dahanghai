@@ -1,6 +1,6 @@
 # 202512 多维表格 AI 实战：新手批量提效路线图
 
-> 素材出处：[https://my.feishu.cn/docx/FntOd8sL6oL5OHx7RAPcRzCEnQj](https://my.feishu.cn/docx/FntOd8sL6oL5OHx7RAPcRzCEnQj)
+
 
 同步入口：<https://my.feishu.cn/sync/Lj5sd8APisk896bxImEcYvjMnlF>
 

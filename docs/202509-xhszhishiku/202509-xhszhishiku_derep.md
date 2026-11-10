@@ -1,6 +1,6 @@
 # 📕知识库变现：9 月实操拆解
 
-> 来源：[https://ocn93f5d9olj.feishu.cn/docx/Zwspdnwozo5Sd4xVYJScdK3Knrd](https://ocn93f5d9olj.feishu.cn/docx/Zwspdnwozo5Sd4xVYJScdK3Knrd)
+
 
 ![](img/7465a5e4591b789352e6efb000bf410b.png)
 

@@ -1,6 +1,6 @@
 # 出海第一站 202312：首站实战
 
-> 来源：[`remhu1p2pr.feishu.cn/docx/WW9Zdfmq2oldV4x6m5ucDaIUn9e`](https://remhu1p2pr.feishu.cn/docx/WW9Zdfmq2oldV4x6m5ucDaIUn9e)
+
 
 出品时间：2023 年 12 月 6 日
 

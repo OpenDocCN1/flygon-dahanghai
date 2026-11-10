@@ -1,6 +1,6 @@
 # 📕开店从0到1｜2023.12实战版
 
-> 来源：[`remhu1p2pr.feishu.cn/docx/YpimdSf21oH8N1x0qNtcSzD1nNh`](https://remhu1p2pr.feishu.cn/docx/YpimdSf21oH8N1x0qNtcSzD1nNh)
+
 
 > 出品时间：2023年12月20日
 

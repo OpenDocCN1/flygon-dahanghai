@@ -1,6 +1,6 @@
 # 2025📕蓝海实拍：新手零基础带货全攻略
 
-> 来源：[https://ocn93f5d9olj.feishu.cn/docx/OchadeKSRoc6QLx9I50cL8Uonoe](https://ocn93f5d9olj.feishu.cn/docx/OchadeKSRoc6QLx9I50cL8Uonoe)
+
 
 # 1. 项目介绍
 

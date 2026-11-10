@@ -1,6 +1,6 @@
 # 零基础AI作画特训（202312）：21天跑通出图流程
 
-> 来源：[`remhu1p2pr.feishu.cn/docx/CsA4dVyDZoPuFqxuTEycZSJDnvg`](https://remhu1p2pr.feishu.cn/docx/CsA4dVyDZoPuFqxuTEycZSJDnvg)
+
 
 # 12月航海｜从零开始玩转AI作画
 

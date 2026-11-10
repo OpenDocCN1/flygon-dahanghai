@@ -1,6 +1,6 @@
 # 202409 航海｜爆文写作从0到1实战课
 
-> 出处：[https://ocn93f5d9olj.feishu.cn/docx/QF1hd6nJTo1gknxZaxjcCUOUnJc](https://ocn93f5d9olj.feishu.cn/docx/QF1hd6nJTo1gknxZaxjcCUOUnJc)
+
 
 备用联系：MM188166M（李李），内容持续更新
 

@@ -1,6 +1,6 @@
 # 👸号原创爆文：零基础跑通变现的实操笔记
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/ONRfdTa38oE3ITxcHuhcHY3Cnog`](https://jviztcgxxfy.feishu.cn/docx/ONRfdTa38oE3ITxcHuhcHY3Cnog)
+
 
 3月航海｜👸号原创爆文实操笔记
 

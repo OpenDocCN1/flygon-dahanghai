@@ -1,6 +1,6 @@
 # 不会画画，也能出片：AI 绘画实战手册（2024.03 版）
 
-> 原文索引：[`jviztcgxxfy.feishu.cn/docx/XMpQdEOtDovLu1xE6b5c4pNCn8f`](https://jviztcgxxfy.feishu.cn/docx/XMpQdEOtDovLu1xE6b5c4pNCn8f)
+
 
 三月航海计划｜AI 绘画特训｜实操手册
 

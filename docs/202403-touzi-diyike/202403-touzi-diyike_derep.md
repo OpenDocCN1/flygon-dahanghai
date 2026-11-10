@@ -1,6 +1,6 @@
 # 先建认知，再碰账户：投资第一课实战笔记
 
-> 资料出处：[`jviztcgxxfy.feishu.cn/docx/Y06Bdiq9yoyGx6xbsP6cvAw6nCb`](https://jviztcgxxfy.feishu.cn/docx/Y06Bdiq9yoyGx6xbsP6cvAw6nCb)
+
 
 ![](img/810b97c10b83b948931a7fb66da508c0.png)
 

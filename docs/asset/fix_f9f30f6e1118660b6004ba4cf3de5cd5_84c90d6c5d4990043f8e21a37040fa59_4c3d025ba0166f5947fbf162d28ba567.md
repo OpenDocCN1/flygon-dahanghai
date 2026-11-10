@@ -1,8 +1,8 @@
 # 2026 小程序冷启动手册：从挖需求到收广告费
 
-> 原始资料：[https://my.feishu.cn/docx/Z1gHdYuFXoHU1mxh8G4cuDiEnvh](https://my.feishu.cn/docx/Z1gHdYuFXoHU1mxh8G4cuDiEnvh)
+
 >
-> 备份链接：<https://my.feishu.cn/sync/Lj5sd8APisk896bxImEcYvjMnlF>
+
 
 # 引言
 

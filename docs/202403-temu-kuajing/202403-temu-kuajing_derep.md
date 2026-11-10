@@ -1,6 +1,6 @@
 # TEMU 出海实操指南 202403
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/VhXddZvKYoAHMLx9Caacd1rOnGf`](https://jviztcgxxfy.feishu.cn/docx/VhXddZvKYoAHMLx9Caacd1rOnGf)
+
 
 ![](img/5948898e981576dbaa99bfa98218f836.png)
 

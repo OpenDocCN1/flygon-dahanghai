@@ -1,6 +1,6 @@
 # 📕店铺12月实操手册
 
-> 原文链接：[`remhu1p2pr.feishu.cn/docx/YpimdSf21oH8N1x0qNtcSzD1nNh`](https://remhu1p2pr.feishu.cn/docx/YpimdSf21oH8N1x0qNtcSzD1nNh)
+
 
 > 更新时间：2023年12月20日
 

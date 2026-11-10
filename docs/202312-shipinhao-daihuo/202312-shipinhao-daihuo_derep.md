@@ -1,6 +1,6 @@
 # 真人出镜带货：视频号 IP 玩法全解（2023.12）
 
-> 原始资料：[`remhu1p2pr.feishu.cn/docx/DU4xd8ahzomzidxRVTpcplJknNf`](https://remhu1p2pr.feishu.cn/docx/DU4xd8ahzomzidxRVTpcplJknNf)
+
 
 # 出镜卖货，视频号里的新机会
 

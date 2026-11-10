@@ -1,6 +1,6 @@
 # 202403 航海实战手册：先让第一个海外小站跑起来
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/NwYsdbeJpocnLdxxtKYcja5CnNc`](https://jviztcgxxfy.feishu.cn/docx/NwYsdbeJpocnLdxxtKYcja5CnNc)
+
 
 3 月航海 | 出海第一站 | 实战手册
 

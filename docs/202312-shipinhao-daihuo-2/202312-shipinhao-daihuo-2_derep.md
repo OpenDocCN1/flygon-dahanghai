@@ -1,6 +1,6 @@
 # 2023年12月｜视频号卖货从0到1实操笔记
 
-> 资料链接：`remhu1p2pr.feishu.cn/docx/RpmAdHTaTo4PAMxnaLLcdrOYnLe`
+
 >
 > 整理日期：2023年12月20日
 

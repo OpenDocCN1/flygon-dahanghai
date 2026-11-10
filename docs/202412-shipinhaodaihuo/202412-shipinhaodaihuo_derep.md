@@ -1,6 +1,6 @@
 # 202412 实战手册｜AI数字人，视频号带货新解法
 
-> 来源：[https://ocn93f5d9olj.feishu.cn/docx/Q201dLxRCoWpZixbGYZcWZBznMf](https://ocn93f5d9olj.feishu.cn/docx/Q201dLxRCoWpZixbGYZcWZBznMf)
+
 
 # 备用通道：MM188166M（李李）高频更新 + V：MG10127
 

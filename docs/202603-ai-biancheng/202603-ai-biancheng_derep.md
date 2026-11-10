@@ -1,9 +1,9 @@
 # 零基础三件套：装好、跑通、做出一个产品
 
 > 原始资料：  
-> [https://my.feishu.cn/docx/Fv3ldAuehoDvWuxMxdicmrSDnEf](https://my.feishu.cn/docx/Fv3ldAuehoDvWuxMxdicmrSDnEf)  
+
 > 同步地址：  
-> <https://my.feishu.cn/sync/Lj5sd8APisk896bxImEcYvjMnlF>
+
 
 # 引言：开船之前
 

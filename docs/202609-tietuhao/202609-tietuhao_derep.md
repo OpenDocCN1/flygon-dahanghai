@@ -1,7 +1,7 @@
 # 🛰️贴图号｜龙哥盟 Mini 航海实战手册（2026）
 
-> 原文出处：[https://hk57gvlx7u.feishu.cn/docx/ZG7RdpnCOoDKLGx50SccHUS8nsc](https://hk57gvlx7u.feishu.cn/docx/ZG7RdpnCOoDKLGx50SccHUS8nsc)
-> 同步文档：<https://my.feishu.cn/sync/Lj5sd8APisk896bxImEcYvjMnlF>
+
+
 
 # 引言：出发之前，先把这些事讲清楚
 

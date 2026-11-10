@@ -1,6 +1,6 @@
 # 202409 航海｜AI 特效开播变现全流程
 
-> 来源：[https://ocn93f5d9olj.feishu.cn/docx/TKr1d8DBOovvWxxpGnBcDiUhnlb](https://ocn93f5d9olj.feishu.cn/docx/TKr1d8DBOovvWxxpGnBcDiUhnlb)
+
 
 # 保持联系｜+MM188166M（李李）长期更新
 

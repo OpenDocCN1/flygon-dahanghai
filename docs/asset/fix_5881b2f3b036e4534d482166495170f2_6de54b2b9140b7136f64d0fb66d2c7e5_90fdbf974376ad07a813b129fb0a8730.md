@@ -1,6 +1,6 @@
 # 9月航海｜Coze实操：让AI替你干活
 
-> 原始素材：https://ocn93f5d9olj.feishu.cn/docx/HTy7dVkGVohVzcxWNdPcWHVKnsf
+
 
 防失联：MM188166M（李李）｜内容会持续补
 

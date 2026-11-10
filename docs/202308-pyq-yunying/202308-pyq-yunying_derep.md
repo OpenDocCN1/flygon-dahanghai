@@ -1,6 +1,6 @@
 # 朋友圈这样发，个人IP才立得住（202308）
 
-> 资料来源：飞书文档 `remhu1p2pr.feishu.cn/docx/TkUhdHHcvohhVXxJaBTc3jCTnDe`
+
 >
 > 手册定稿：2023年8月10日
 >

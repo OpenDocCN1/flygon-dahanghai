@@ -1,6 +1,6 @@
 # 播客制作实战手册｜2023年8月航海
 
-> 来源：[remhu1p2pr.feishu.cn/docx/NnNSdepLfoc9IvxLBXncfKdPncN](https://remhu1p2pr.feishu.cn/docx/NnNSdepLfoc9IvxLBXncfKdPncN)
+
 
 出品时间：2023年8月9日
 

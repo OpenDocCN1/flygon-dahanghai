@@ -1,6 +1,6 @@
 # 视频号 AI 个人 IP 实战手册（2025 年 9 月航海版）
 
-> 来源：https://ocn93f5d9olj.feishu.cn/docx/XtjCdWr89o8ADvxjsWPcer2enKh
+
 
 # 零基础怎么上手视频号 AI 个人 IP？
 

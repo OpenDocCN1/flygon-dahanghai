@@ -1,6 +1,6 @@
 # 视频号带货实战指南 202403
 
-> 原始文档：[`jviztcgxxfy.feishu.cn/docx/Le7PdGnEpoyrDpxpauhcLru7nvf`](https://jviztcgxxfy.feishu.cn/docx/Le7PdGnEpoyrDpxpauhcLru7nvf)
+
 
 三月航海项目 · 视频号带货实操笔记
 

@@ -1,6 +1,6 @@
 # 短剧 CPS 新手实战手册（2023.08）
 
-> 资料出处：[`remhu1p2pr.feishu.cn/docx/KAn0dbY1AoBy0NxZj9OcNe8nndh`](https://remhu1p2pr.feishu.cn/docx/KAn0dbY1AoBy0NxZj9OcNe8nndh)
+
 
 发布时间：2023 年 8 月 11 日
 

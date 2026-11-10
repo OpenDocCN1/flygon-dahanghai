@@ -1,6 +1,6 @@
 # 教育直播从零起步：一份可复用的实战手册（2023.12）
 
-> 文件出处：[`remhu1p2pr.feishu.cn/docx/HFOOdjaHqo3S2exxwqdcbIgHnge`](https://remhu1p2pr.feishu.cn/docx/HFOOdjaHqo3S2exxwqdcbIgHnge)
+
 
 成稿时间：2023 年 12 月 27 日
 

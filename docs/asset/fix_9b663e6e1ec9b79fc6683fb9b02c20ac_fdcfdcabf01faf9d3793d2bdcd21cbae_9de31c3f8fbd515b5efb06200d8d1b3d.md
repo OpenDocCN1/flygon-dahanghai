@@ -1,6 +1,6 @@
 # 视频号带货实操手册（2023.12）
 
-> 资料出处：`remhu1p2pr.feishu.cn/docx/RpmAdHTaTo4PAMxnaLLcdrOYnLe`
+
 >
 > 整理时间：2023 年 12 月 20 日
 

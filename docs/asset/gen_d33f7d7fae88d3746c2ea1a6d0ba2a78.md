@@ -1,6 +1,6 @@
 # 2025年6月航海｜AI可视化从入门到出卡
 
-> 原始资料链接：[https://ocn93f5d9olj.feishu.cn/docx/WTc7dUITPo3qLjxP82lcHYHOnWc](https://ocn93f5d9olj.feishu.cn/docx/WTc7dUITPo3qLjxP82lcHYHOnWc)
+
 
 [PRE0]
 

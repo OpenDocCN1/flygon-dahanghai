@@ -1,6 +1,6 @@
 # 📕百货店：从零到出单的完整打法
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/MjtDdLvzio4RK5xdcBScu7B7nvd`](https://jviztcgxxfy.feishu.cn/docx/MjtDdLvzio4RK5xdcBScu7B7nvd)
+
 
 三月航海｜📕百货店铺实操路线
 

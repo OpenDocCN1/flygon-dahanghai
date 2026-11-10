@@ -1,7 +1,7 @@
 # 2026 实操手册：搭一套 AI 第二大脑内容生产系统
 
-> 原始文档：https://hk57gvlx7u.feishu.cn/docx/TyiadPCxfo1rN3xG2Etctbsnnnf  
-> 同步副本：https://my.feishu.cn/sync/Lj5sd8APisk896bxImEcYvjMnlF
+
+
 
 ---
 

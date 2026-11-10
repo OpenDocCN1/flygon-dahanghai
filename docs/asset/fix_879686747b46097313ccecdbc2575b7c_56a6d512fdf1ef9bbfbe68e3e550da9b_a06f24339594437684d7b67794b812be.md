@@ -1,6 +1,6 @@
 # 不懂技术也能做 YouTube？从 AI 起步丨2025 年 9 月航海
 
-> 素材出处：https://ocn93f5d9olj.feishu.cn/docx/Py2sd8noWomN5bxOFXccjUIan5e
+
 
 # 1. 素人为什么该把第一站放在 AI 方向
 

@@ -1,6 +1,6 @@
 # 12月航海｜Shein全托管实操指南
 
-> 素材出处：[https://ocn93f5d9olj.feishu.cn/docx/IUcQdwK4Hox5FfxZPaJcVIBlnbN](https://ocn93f5d9olj.feishu.cn/docx/IUcQdwK4Hox5FfxZPaJcVIBlnbN)
+
 
 # 防失联｜MM188166M（李李）高频更新｜备用V:MG10127
 

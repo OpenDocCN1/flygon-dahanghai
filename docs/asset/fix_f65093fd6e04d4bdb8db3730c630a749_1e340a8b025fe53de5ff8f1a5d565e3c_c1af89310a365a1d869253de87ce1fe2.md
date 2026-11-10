@@ -1,6 +1,6 @@
 # 十二月剪映训练营：零基础到上手
 
-> 来源：[`remhu1p2pr.feishu.cn/docx/YXu5dI0TKoGAHFxP0jwcR4i5nUV`](https://remhu1p2pr.feishu.cn/docx/YXu5dI0TKoGAHFxP0jwcR4i5nUV)
+
 
 出品时间：2023 年 12 月 15 日
 

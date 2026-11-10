@@ -1,6 +1,6 @@
 # 短剧代推项目：八月实操全记录
 
-> 原始资料：[`remhu1p2pr.feishu.cn/docx/KAn0dbY1AoBy0NxZj9OcNe8nndh`](https://remhu1p2pr.feishu.cn/docx/KAn0dbY1AoBy0NxZj9OcNe8nndh)
+
 
 整理日期：2023.08.11
 

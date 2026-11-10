@@ -1,6 +1,6 @@
 # ChatGPT × 自媒体实战手册（8 月航海）
 
-> 原文出处：[`remhu1p2pr.feishu.cn/docx/FYTXdNNjeo17pHx76LbcwoLBnAg`](https://remhu1p2pr.feishu.cn/docx/FYTXdNNjeo17pHx76LbcwoLBnAg)
+
 
 发布日期：2023 年 8 月 18 日
 

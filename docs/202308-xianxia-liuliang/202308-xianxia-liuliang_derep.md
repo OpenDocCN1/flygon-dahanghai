@@ -1,6 +1,6 @@
 # 门店引流新生意：把线上热度变成到店成交（2023.08）
 
-> 资料出处：[飞书文档](https://remhu1p2pr.feishu.cn/docx/ErBjduNuCorKBBxrDm3c6fAPn0e)
+
 
 整理时间：2023年8月24日
 

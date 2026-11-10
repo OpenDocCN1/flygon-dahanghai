@@ -1,6 +1,6 @@
 # 0粉也能写10万+：👸号原创爆文实战手册
 
-> 来源：[`jviztcgxxfy.feishu.cn/docx/ONRfdTa38oE3ITxcHuhcHY3Cnog`](https://jviztcgxxfy.feishu.cn/docx/ONRfdTa38oE3ITxcHuhcHY3Cnog)
+
 
 3月航海｜👸号原创爆文实战手册
 

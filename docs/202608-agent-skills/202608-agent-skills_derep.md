@@ -1,6 +1,6 @@
 # 2026 Agent Skills 实战手册丨跟着做就能出成果
 
-> 来源：[https://hk57gvlx7u.feishu.cn/docx/AOkCdT1FGomppuxol9pcQ611nBb](https://hk57gvlx7u.feishu.cn/docx/AOkCdT1FGomppuxol9pcQ611nBb)
+
 
 <https://my.feishu.cn/sync/Lj5sd8APisk896bxImEcYvjMnlF>
 

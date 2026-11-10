@@ -1,6 +1,6 @@
 # AI短片实操：工具、案例与爆款拆解
 
-> 来源：[https://ocn93f5d9olj.feishu.cn/docx/GEW7dGPoHoNYgCxTOYNctZw6nsh](https://ocn93f5d9olj.feishu.cn/docx/GEW7dGPoHoNYgCxTOYNctZw6nsh)
+
 
 ![](img/6df129a2f85a2aa48d187585ba7786b7.png)
 

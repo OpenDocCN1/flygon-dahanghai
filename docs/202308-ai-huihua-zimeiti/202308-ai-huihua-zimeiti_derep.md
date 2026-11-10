@@ -1,6 +1,6 @@
 # AI 绘画+自媒体：2023 年 8 月实操手册
 
-> 来源：[`remhu1p2pr.feishu.cn/docx/SIS1dCUX2oqr6CxM0l0ckTkrnJh`](https://remhu1p2pr.feishu.cn/docx/SIS1dCUX2oqr6CxM0l0ckTkrnJh)
+
 >
 > 出品时间：2023 年 8 月 7 日
 

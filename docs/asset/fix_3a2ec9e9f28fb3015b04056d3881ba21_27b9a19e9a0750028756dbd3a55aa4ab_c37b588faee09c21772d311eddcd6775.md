@@ -1,6 +1,6 @@
 # 抖音图文电商：不拍视频也能带货
 
-> 原文链接：[`remhu1p2pr.feishu.cn/docx/SN95doD42o8mLfxLY99cGp9cnXb`](https://remhu1p2pr.feishu.cn/docx/SN95doD42o8mLfxLY99cGp9cnXb)
+
 
 发布时间：2023 年 8 月 15 日
 

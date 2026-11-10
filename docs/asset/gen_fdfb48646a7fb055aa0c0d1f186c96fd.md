@@ -1,8 +1,8 @@
 # 出海游戏热词站实战手册（8月航海）
 
-> 原始出处：[https://hk57gvlx7u.feishu.cn/docx/PopBdWeMwoKSsYxgnnXc65ean5c](https://hk57gvlx7u.feishu.cn/docx/PopBdWeMwoKSsYxgnnXc65ean5c)
+
 >
-> 同步文档：<https://my.feishu.cn/sync/Lj5sd8APisk896bxImEcYvjMnlF>
+
 
 ---
 

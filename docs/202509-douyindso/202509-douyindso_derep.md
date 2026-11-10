@@ -1,6 +1,6 @@
 # 抖音搜索获客实操指南｜2025年9月航海
 
-> 素材出处：[https://ocn93f5d9olj.feishu.cn/docx/AVJHduQeWoDuqmxOLy7cqBRznmd](https://ocn93f5d9olj.feishu.cn/docx/AVJHduQeWoDuqmxOLy7cqBRznmd)
+
 
 # 一、项目与航线
 

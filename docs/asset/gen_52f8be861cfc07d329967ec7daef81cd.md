@@ -1,6 +1,6 @@
 # 2026 🛰️贴图号 Mini 航海：先跑通第一条
 
-> 资料出处：[https://hk57gvlx7u.feishu.cn/docx/ZG7RdpnCOoDKLGx50SccHUS8nsc](https://hk57gvlx7u.feishu.cn/docx/ZG7RdpnCOoDKLGx50SccHUS8nsc)
+
 
 <https://my.feishu.cn/sync/Lj5sd8APisk896bxImEcYvjMnlF>
 

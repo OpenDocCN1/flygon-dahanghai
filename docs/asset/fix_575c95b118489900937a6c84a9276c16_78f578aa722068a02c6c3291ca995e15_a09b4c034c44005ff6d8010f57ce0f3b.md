@@ -1,6 +1,6 @@
 # 202409 航海｜AI 帮你写代码：零基础做产品实战手册
 
-> 来源：[https://ocn93f5d9olj.feishu.cn/docx/KW7ud2dxwo2kAuxORRLcNGfenig](https://ocn93f5d9olj.feishu.cn/docx/KW7ud2dxwo2kAuxORRLcNGfenig)
+
 
 防失联+MM188166M（李李）长期更新
 

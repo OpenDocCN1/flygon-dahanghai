@@ -1,6 +1,6 @@
 # 视频号涨粉实战手册（2023年8月版）
 
-> 来源：[`remhu1p2pr.feishu.cn/docx/EJs6dTCjJoUOApxrs4bchRXsnWb`](https://remhu1p2pr.feishu.cn/docx/EJs6dTCjJoUOApxrs4bchRXsnWb)
+
 
 # 视频号涨粉操作指南
 

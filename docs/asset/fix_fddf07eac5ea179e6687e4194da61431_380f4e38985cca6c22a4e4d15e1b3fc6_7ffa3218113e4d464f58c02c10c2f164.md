@@ -1,6 +1,6 @@
 # 🛰️爆文实战：从找料到 10W+ 的完整打法
 
-> 资料出处：[`remhu1p2pr.feishu.cn/docx/SAgFdxXGpolERxxUPHMc9Te5n1f`](https://remhu1p2pr.feishu.cn/docx/SAgFdxXGpolERxxUPHMc9Te5n1f)
+
 
 整理时间：2023 年 8 月 18 日
 

@@ -1,8 +1,8 @@
 # 2026年5月 AI 航海手册：把工具练成能力
 
-> 资料出处：[https://my.feishu.cn/docx/Cw8SdtiS0omqNdxBFmpcXYiqnth](https://my.feishu.cn/docx/Cw8SdtiS0omqNdxBFmpcXYiqnth)
+
 >
-> 同步入口：<https://my.feishu.cn/sync/Lj5sd8APisk896bxImEcYvjMnlF>
+
 
 # 必修篇
 

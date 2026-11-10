@@ -1,6 +1,6 @@
 # 闲鱼卖旧书实战手册 202403
 
-> 原文出处：[`jviztcgxxfy.feishu.cn/docx/KonHdBRlAoQNaGxHFtscJmLenic`](https://jviztcgxxfy.feishu.cn/docx/KonHdBRlAoQNaGxHFtscJmLenic)
+
 
 ![](img/a9d01d057f6b7b0c41d0a9ac41eae8b9.png)
 旧书生意

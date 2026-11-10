@@ -1,6 +1,6 @@
 # 2023.08 出海实战：ChatGPT 工具站手册
 
-> 来源：[`remhu1p2pr.feishu.cn/docx/DJHbdiAekoVQASxiaQhctohbnxh`](https://remhu1p2pr.feishu.cn/docx/DJHbdiAekoVQASxiaQhctohbnxh)
+
 
 出品时间：2023 年 8 月 18 日
 

@@ -1,6 +1,6 @@
 # 用AI做🛰️小程序，30元就能起步丨8月航海实战手册
 
-> 来源：[https://hk57gvlx7u.feishu.cn/docx/IQfjdWu2Io6gzVxb3IqcixY1nRg](https://hk57gvlx7u.feishu.cn/docx/IQfjdWu2Io6gzVxb3IqcixY1nRg)
+
 
 ---
 
